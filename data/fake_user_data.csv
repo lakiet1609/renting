@@ -1,0 +1,1001 @@
+Quê quán,Tuổi tác,Giới tính,Nghề nghiệp,Thu nhập (triệu),Ngân sách thuê nhà (triệu),Thói quen sinh hoạt,Yêu cầu tiện nghi,Địa điểm mục tiêu,Khu vực mong muốn,Diện tích (m2),Số phòng
+Hưng Yên,23,Nữ,Kỹ sư,10,3,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 23.263898, 'Longitude': 105.654865}",Hoài Đức,27,1
+Điện Biên,24,Nữ,Freelancer,19,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 21.60114, 'Longitude': 102.425265}",Phú Xuyên,43,2
+Bắc Kạn,21,Nữ,Sinh viên,4,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 16.419646, 'Longitude': 106.183285}",Thạch Thất,20,3
+Cao Bằng,32,Nữ,Công nhân,16,5,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 22.313006, 'Longitude': 107.009253}",Cầu Giấy,48,3
+Nam Định,28,Nam,Phục vụ,9,3,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 8.948569, 'Longitude': 108.036487}",Quốc Oai,16,4
+Hà Nội,31,Nữ,Freelancer,11,2,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 23.209883, 'Longitude': 104.782218}",Thanh Trì,17,3
+Hưng Yên,30,Nữ,Kỹ sư,13,3,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'Bếp']","{'Latitude': 8.297079, 'Longitude': 108.118868}",Chương Mỹ,47,2
+Nam Định,35,Nam,Phục vụ,15,5,Thích yên tĩnh,"['Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.067747, 'Longitude': 105.758665}",Tây Hồ,15,1
+Thái Bình,34,Nam,Nhân viên văn phòng,8,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 14.554318, 'Longitude': 105.656325}",Long Biên,25,4
+Phú Thọ,34,Nữ,Freelancer,13,1,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 15.325915, 'Longitude': 106.824326}",Long Biên,13,1
+Quảng Ninh,20,Nam,Sinh viên,10,2,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 15.536845, 'Longitude': 104.672358}",Ứng Hòa,14,2
+Nam Định,32,Nam,Kỹ sư,18,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 23.035092, 'Longitude': 103.490612}",Thanh Trì,30,3
+Lào Cai,32,Nam,Công nhân,18,4,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 11.033456, 'Longitude': 105.001134}",Long Biên,48,3
+Sơn La,25,Nam,Phục vụ,7,1,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 18.904748, 'Longitude': 108.376053}",Hoàng Mai,25,4
+Điện Biên,34,Nam,Freelancer,10,5,Thích yên tĩnh,"['Chỗ để xe', 'Bếp']","{'Latitude': 16.218422, 'Longitude': 104.179092}",Long Biên,17,3
+Cao Bằng,35,Nam,Phục vụ,9,2,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 13.27225, 'Longitude': 106.69482}",Sơn Tây,15,4
+Phú Thọ,18,Nữ,Sinh viên,6,5,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 15.178629, 'Longitude': 104.046621}",Thường Tín,18,2
+Hải Dương,31,Nữ,Freelancer,15,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 18.983672, 'Longitude': 108.749007}",Phú Xuyên,38,3
+Lạng Sơn,22,Nam,Sinh viên,8,3,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 12.294365, 'Longitude': 106.341225}",Ba Vì,36,2
+Bắc Ninh,31,Nữ,Kỹ sư,5,2,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 11.791848, 'Longitude': 103.689767}",Thanh Trì,20,1
+Tuyên Quang,31,Nữ,Phục vụ,19,2,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 21.926458, 'Longitude': 102.17954}",Tây Hồ,28,3
+Sơn La,29,Nữ,Phục vụ,15,5,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 14.413708, 'Longitude': 103.70057}",Quốc Oai,26,3
+Hải Dương,25,Nam,Nhân viên văn phòng,19,5,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 19.391618, 'Longitude': 102.625557}",Sơn Tây,23,4
+Hà Giang,28,Nam,Nhân viên văn phòng,18,4,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 16.311607, 'Longitude': 103.651868}",Cầu Giấy,16,4
+Điện Biên,24,Nữ,Phục vụ,17,2,Thích yên tĩnh,['Bếp'],"{'Latitude': 10.927308, 'Longitude': 108.348152}",Bắc Từ Liêm,42,3
+Điện Biên,25,Nữ,Freelancer,10,3,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 9.84543, 'Longitude': 108.906859}",Sơn Tây,42,2
+Nam Định,33,Nam,Nhân viên văn phòng,7,2,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 22.347295, 'Longitude': 103.857991}",Gia Lâm,46,1
+Tuyên Quang,25,Nam,Phục vụ,20,1,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 16.224082, 'Longitude': 103.647286}",Hà Đông,10,1
+Bắc Kạn,25,Nữ,Freelancer,14,1,Không quan trọng,['Bếp'],"{'Latitude': 11.969051, 'Longitude': 109.242235}",Bắc Từ Liêm,36,3
+Bắc Giang,35,Nam,Nhân viên văn phòng,16,3,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 15.653798, 'Longitude': 104.028505}",Ba Đình,48,2
+Sơn La,27,Nữ,Freelancer,15,4,Không quan trọng,"['An ninh tốt', 'Bếp', 'Chỗ để xe']","{'Latitude': 15.910564, 'Longitude': 103.906237}",Bắc Từ Liêm,40,1
+Hải Dương,18,Nữ,Sinh viên,5,3,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 9.468414, 'Longitude': 108.450085}",Đống Đa,32,1
+Cao Bằng,33,Nam,Phục vụ,5,4,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 21.789364, 'Longitude': 107.620644}",Sóc Sơn,33,4
+Hòa Bình,33,Nam,Phục vụ,18,4,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 14.048559, 'Longitude': 108.255329}",Thanh Oai,44,2
+Lạng Sơn,24,Nữ,Công nhân,14,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 17.112942, 'Longitude': 104.293115}",Nam Từ Liêm,50,4
+Hải Phòng,33,Nữ,Công nhân,14,1,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 10.054069, 'Longitude': 106.585035}",Tây Hồ,35,4
+Hà Nội,26,Nữ,Công nhân,10,2,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 20.596879, 'Longitude': 109.401146}",Hoài Đức,21,3
+Thái Bình,29,Nữ,Công nhân,5,5,Không quan trọng,['Bếp'],"{'Latitude': 22.624386, 'Longitude': 105.004768}",Hai Bà Trưng,17,4
+Vĩnh Phúc,31,Nam,Kỹ sư,18,5,Nuôi thú cưng,"['Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 9.343991, 'Longitude': 108.438507}",Gia Lâm,24,3
+Thái Nguyên,35,Nam,Phục vụ,13,3,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 22.507271, 'Longitude': 104.759982}",Mỹ Đức,44,4
+Hà Nội,21,Nữ,Sinh viên,0,2,Không quan trọng,"['An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 17.353865, 'Longitude': 105.812247}",Mỹ Đức,41,3
+Hải Phòng,35,Nam,Công nhân,15,4,Không quan trọng,"['Bếp', 'An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 15.18979, 'Longitude': 106.53805}",Phú Xuyên,41,2
+Hà Nội,32,Nữ,Kỹ sư,17,5,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 12.77443, 'Longitude': 106.174118}",Bắc Từ Liêm,29,3
+Lào Cai,23,Nam,Nhân viên văn phòng,18,2,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.871949, 'Longitude': 104.562685}",Thường Tín,19,4
+Hải Dương,28,Nam,Công nhân,8,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 19.227473, 'Longitude': 103.547424}",Thanh Oai,15,4
+Bắc Ninh,28,Nữ,Freelancer,9,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.119605, 'Longitude': 105.314281}",Chương Mỹ,17,1
+Lạng Sơn,29,Nam,Kỹ sư,13,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 11.245314, 'Longitude': 108.020609}",Hà Đông,26,1
+Quảng Ninh,35,Nam,Kỹ sư,20,3,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 15.752592, 'Longitude': 107.206282}",Hoàn Kiếm,21,1
+Hải Phòng,27,Nữ,Công nhân,14,4,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 19.374852, 'Longitude': 108.424204}",Thường Tín,20,2
+Sơn La,34,Nữ,Nhân viên văn phòng,17,5,Không quan trọng,"['Chỗ để xe', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 16.35908, 'Longitude': 108.286778}",Long Biên,20,1
+Ninh Bình,33,Nam,Kỹ sư,18,1,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 8.552146, 'Longitude': 104.838053}",Hà Đông,33,1
+Sơn La,30,Nam,Freelancer,13,5,Không quan trọng,['Chỗ để xe'],"{'Latitude': 18.241698, 'Longitude': 105.695634}",Sóc Sơn,48,2
+Cao Bằng,28,Nam,Phục vụ,15,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 19.92918, 'Longitude': 102.733393}",Hoài Đức,16,3
+Tuyên Quang,32,Nam,Kỹ sư,12,5,Không quan trọng,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 11.497346, 'Longitude': 108.228701}",Cầu Giấy,18,1
+Thái Bình,29,Nam,Freelancer,10,5,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 15.292124, 'Longitude': 102.890739}",Hoài Đức,12,2
+Lạng Sơn,27,Nữ,Freelancer,10,3,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 20.213429, 'Longitude': 108.619329}",Phú Xuyên,49,3
+Sơn La,27,Nữ,Freelancer,16,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 19.910621, 'Longitude': 103.947235}",Ba Đình,34,1
+Hưng Yên,28,Nữ,Phục vụ,19,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 20.762509, 'Longitude': 104.678912}",Bắc Từ Liêm,32,1
+Bắc Ninh,27,Nữ,Phục vụ,15,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 19.759851, 'Longitude': 103.829687}",Sơn Tây,48,3
+Lai Châu,26,Nữ,Công nhân,10,4,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 13.53293, 'Longitude': 106.412452}",Ứng Hòa,34,2
+Yên Bái,35,Nữ,Freelancer,13,5,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 12.885996, 'Longitude': 108.97883}",Chương Mỹ,33,3
+Hà Nội,20,Nam,Sinh viên,1,2,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 13.805181, 'Longitude': 108.040665}",Thanh Trì,20,1
+Hưng Yên,32,Nam,Kỹ sư,13,2,Không quan trọng,"['Bếp', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 20.100935, 'Longitude': 109.400353}",Đống Đa,37,1
+Lai Châu,23,Nam,Kỹ sư,10,5,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 21.278902, 'Longitude': 104.247808}",Thanh Trì,16,4
+Vĩnh Phúc,27,Nam,Kỹ sư,7,5,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 10.847633, 'Longitude': 102.257509}",Đông Anh,31,1
+Hưng Yên,25,Nữ,Kỹ sư,10,2,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Bếp', 'Nội thất sẵn']","{'Latitude': 20.523605, 'Longitude': 108.260324}",Ba Vì,35,4
+Hải Dương,33,Nam,Kỹ sư,19,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Máy lạnh', 'Bếp']","{'Latitude': 19.553938, 'Longitude': 108.396928}",Hoài Đức,25,1
+Hải Phòng,25,Nữ,Công nhân,9,1,Nuôi thú cưng,"['Chỗ để xe', 'Bếp']","{'Latitude': 17.688502, 'Longitude': 107.864996}",Gia Lâm,42,2
+Lai Châu,30,Nam,Công nhân,7,4,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 19.730095, 'Longitude': 108.203936}",Tây Hồ,38,3
+Hòa Bình,33,Nữ,Nhân viên văn phòng,15,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 14.166732, 'Longitude': 105.831365}",Hoài Đức,16,2
+Cao Bằng,34,Nữ,Nhân viên văn phòng,19,3,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 12.782599, 'Longitude': 107.700901}",Gia Lâm,50,4
+Hòa Bình,25,Nam,Kỹ sư,13,1,Nuôi thú cưng,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 21.358008, 'Longitude': 105.86786}",Quốc Oai,32,1
+Sơn La,29,Nữ,Nhân viên văn phòng,8,2,Không quan trọng,"['Máy lạnh', 'Bếp', 'Chỗ để xe']","{'Latitude': 19.688851, 'Longitude': 107.596991}",Tây Hồ,31,3
+Cao Bằng,31,Nữ,Kỹ sư,8,4,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 19.008331, 'Longitude': 108.176574}",Phúc Thọ,14,3
+Ninh Bình,35,Nam,Công nhân,13,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 13.340138, 'Longitude': 108.016577}",Gia Lâm,13,4
+Hà Giang,27,Nữ,Freelancer,18,2,Không quan trọng,"['An ninh tốt', 'Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 16.081897, 'Longitude': 103.106518}",Tây Hồ,33,3
+Hải Dương,35,Nam,Công nhân,12,4,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 23.348744, 'Longitude': 108.320948}",Hoàng Mai,28,1
+Lào Cai,33,Nữ,Kỹ sư,19,1,Không quan trọng,"['Chỗ để xe', 'Bếp']","{'Latitude': 12.020718, 'Longitude': 108.096578}",Long Biên,40,3
+Nam Định,20,Nam,Sinh viên,3,3,Không quan trọng,['Bếp'],"{'Latitude': 15.132787, 'Longitude': 108.184674}",Đông Anh,45,2
+Bắc Giang,30,Nữ,Nhân viên văn phòng,17,2,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 11.613194, 'Longitude': 106.37323}",Hai Bà Trưng,20,3
+Hải Phòng,32,Nam,Nhân viên văn phòng,12,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 9.914897, 'Longitude': 108.225412}",Hai Bà Trưng,33,1
+Hưng Yên,27,Nữ,Kỹ sư,8,4,Thích yên tĩnh,"['An ninh tốt', 'Bếp']","{'Latitude': 16.971764, 'Longitude': 104.85158}",Quốc Oai,11,1
+Hà Giang,27,Nam,Phục vụ,18,2,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 20.995472, 'Longitude': 105.123454}",Tây Hồ,18,2
+Ninh Bình,34,Nữ,Kỹ sư,16,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 18.670673, 'Longitude': 106.283059}",Quốc Oai,12,1
+Lai Châu,24,Nam,Freelancer,6,3,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 17.359235, 'Longitude': 103.419103}",Phúc Thọ,38,4
+Hưng Yên,35,Nữ,Công nhân,10,1,Không quan trọng,['Bếp'],"{'Latitude': 21.541794, 'Longitude': 104.17}",Ứng Hòa,39,3
+Quảng Ninh,35,Nữ,Freelancer,20,4,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 15.12708, 'Longitude': 103.416559}",Hoàn Kiếm,36,2
+Ninh Bình,28,Nữ,Kỹ sư,17,2,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 12.900036, 'Longitude': 102.9378}",Hà Đông,23,3
+Bắc Giang,34,Nữ,Freelancer,10,2,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 13.428251, 'Longitude': 104.340324}",Ba Đình,21,1
+Điện Biên,20,Nam,Sinh viên,5,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 10.612094, 'Longitude': 108.326037}",Quốc Oai,18,4
+Lai Châu,34,Nam,Nhân viên văn phòng,16,2,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 22.594421, 'Longitude': 102.71198}",Thanh Xuân,15,4
+Hải Dương,21,Nam,Sinh viên,9,1,Nuôi thú cưng,"['Bếp', 'Chỗ để xe']","{'Latitude': 15.196047, 'Longitude': 107.736516}",Đông Anh,46,3
+Lai Châu,31,Nam,Freelancer,19,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 9.482423, 'Longitude': 109.134631}",Quốc Oai,48,4
+Lai Châu,30,Nam,Kỹ sư,20,1,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 11.048626, 'Longitude': 104.721537}",Đống Đa,15,3
+Lai Châu,24,Nam,Phục vụ,17,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.110792, 'Longitude': 106.773557}",Sơn Tây,23,1
+Lào Cai,27,Nữ,Nhân viên văn phòng,13,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 21.641017, 'Longitude': 104.889096}",Nam Từ Liêm,29,2
+Hà Giang,25,Nam,Freelancer,13,1,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 16.459802, 'Longitude': 103.014829}",Ba Vì,20,3
+Hưng Yên,23,Nam,Freelancer,17,1,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 21.075713, 'Longitude': 106.103722}",Chương Mỹ,42,2
+Nam Định,30,Nam,Nhân viên văn phòng,10,3,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 22.455912, 'Longitude': 107.596076}",Hà Đông,17,4
+Điện Biên,34,Nữ,Freelancer,9,1,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn']","{'Latitude': 22.828094, 'Longitude': 102.938844}",Đống Đa,21,3
+Lạng Sơn,30,Nữ,Phục vụ,11,1,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 15.059144, 'Longitude': 108.612782}",Thạch Thất,13,4
+Hà Nam,33,Nữ,Nhân viên văn phòng,15,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe']","{'Latitude': 11.037423, 'Longitude': 103.975631}",Đông Anh,32,1
+Vĩnh Phúc,31,Nữ,Phục vụ,16,1,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Bếp']","{'Latitude': 12.963252, 'Longitude': 107.037044}",Ba Đình,47,1
+Hà Nam,23,Nam,Phục vụ,19,4,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 19.575696, 'Longitude': 103.744366}",Sóc Sơn,49,1
+Yên Bái,27,Nữ,Nhân viên văn phòng,20,4,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 15.685265, 'Longitude': 104.340276}",Chương Mỹ,32,2
+Hà Giang,18,Nữ,Sinh viên,2,4,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 12.794858, 'Longitude': 106.629715}",Thanh Trì,33,4
+Tuyên Quang,34,Nữ,Freelancer,8,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 9.418649, 'Longitude': 106.284289}",Cầu Giấy,29,4
+Nam Định,32,Nam,Nhân viên văn phòng,19,4,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 20.845072, 'Longitude': 104.831801}",Hoàn Kiếm,33,4
+Nam Định,30,Nam,Nhân viên văn phòng,14,1,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 15.223852, 'Longitude': 105.830989}",Nam Từ Liêm,36,4
+Lai Châu,26,Nữ,Phục vụ,8,2,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 15.546677, 'Longitude': 105.593564}",Hoàng Mai,23,3
+Bắc Ninh,32,Nữ,Công nhân,17,1,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 14.305017, 'Longitude': 106.090867}",Sơn Tây,23,4
+Tuyên Quang,34,Nam,Freelancer,15,1,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 9.811111, 'Longitude': 107.286079}",Đan Phượng,35,1
+Hòa Bình,21,Nam,Sinh viên,1,4,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 15.982554, 'Longitude': 108.469496}",Chương Mỹ,33,2
+Hà Nam,31,Nam,Freelancer,20,5,Thích yên tĩnh,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 14.384601, 'Longitude': 109.39586}",Tây Hồ,28,4
+Sơn La,18,Nữ,Sinh viên,5,3,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 8.455626, 'Longitude': 105.642522}",Mỹ Đức,50,3
+Bắc Ninh,26,Nam,Phục vụ,7,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 14.143252, 'Longitude': 103.591173}",Thường Tín,20,3
+Hải Dương,28,Nam,Công nhân,6,3,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 8.783549, 'Longitude': 104.048534}",Hoài Đức,49,3
+Ninh Bình,30,Nữ,Freelancer,17,4,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 16.098314, 'Longitude': 108.658546}",Hoài Đức,29,1
+Điện Biên,22,Nam,Sinh viên,10,1,Nuôi thú cưng,['Bếp'],"{'Latitude': 8.2921, 'Longitude': 107.327282}",Thạch Thất,13,1
+Lạng Sơn,24,Nữ,Nhân viên văn phòng,11,1,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 8.826815, 'Longitude': 107.011753}",Ba Vì,16,1
+Sơn La,35,Nam,Freelancer,8,2,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh']","{'Latitude': 9.136637, 'Longitude': 104.380413}",Quốc Oai,40,4
+Nam Định,28,Nam,Nhân viên văn phòng,15,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 22.507582, 'Longitude': 105.598994}",Cầu Giấy,11,1
+Phú Thọ,22,Nữ,Sinh viên,9,5,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 19.171656, 'Longitude': 103.590337}",Hoàng Mai,12,1
+Nam Định,22,Nữ,Sinh viên,6,2,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 11.144657, 'Longitude': 108.808049}",Tây Hồ,38,3
+Lạng Sơn,30,Nam,Công nhân,17,2,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 17.585956, 'Longitude': 106.270089}",Long Biên,36,4
+Thái Nguyên,28,Nam,Công nhân,5,5,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 12.380804, 'Longitude': 108.991569}",Phú Xuyên,46,3
+Bắc Giang,22,Nam,Sinh viên,2,2,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe', 'Bếp']","{'Latitude': 9.381924, 'Longitude': 104.924961}",Phú Xuyên,21,3
+Yên Bái,18,Nam,Sinh viên,5,1,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 10.969201, 'Longitude': 105.651345}",Hoài Đức,38,2
+Yên Bái,29,Nam,Phục vụ,14,3,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt', 'Máy lạnh', 'Bếp']","{'Latitude': 12.649345, 'Longitude': 105.804499}",Mỹ Đức,36,2
+Phú Thọ,30,Nam,Nhân viên văn phòng,20,2,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'An ninh tốt', 'Bếp']","{'Latitude': 17.607457, 'Longitude': 108.051662}",Phúc Thọ,25,2
+Bắc Ninh,25,Nữ,Nhân viên văn phòng,18,2,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.25604, 'Longitude': 102.996812}",Ba Vì,10,4
+Lào Cai,34,Nữ,Nhân viên văn phòng,8,1,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 11.038707, 'Longitude': 104.173057}",Ba Đình,48,1
+Hải Dương,35,Nam,Phục vụ,9,3,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 9.195028, 'Longitude': 103.743219}",Đan Phượng,25,1
+Sơn La,19,Nam,Sinh viên,5,5,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 10.278338, 'Longitude': 106.528376}",Đống Đa,11,3
+Lạng Sơn,30,Nam,Nhân viên văn phòng,20,2,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.323071, 'Longitude': 109.318019}",Sóc Sơn,34,1
+Ninh Bình,33,Nam,Nhân viên văn phòng,9,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 22.857475, 'Longitude': 109.214082}",Sóc Sơn,45,1
+Lào Cai,27,Nữ,Nhân viên văn phòng,9,1,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 9.118749, 'Longitude': 103.05267}",Nam Từ Liêm,19,1
+Quảng Ninh,26,Nữ,Kỹ sư,6,5,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Chỗ để xe', 'Bếp']","{'Latitude': 8.616292, 'Longitude': 105.229244}",Ba Đình,49,4
+Vĩnh Phúc,24,Nữ,Phục vụ,18,2,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 13.550396, 'Longitude': 102.901596}",Phúc Thọ,11,1
+Hải Dương,24,Nữ,Freelancer,5,1,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 21.912353, 'Longitude': 103.081388}",Thường Tín,32,3
+Phú Thọ,29,Nam,Freelancer,17,3,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 20.568436, 'Longitude': 104.245525}",Gia Lâm,39,3
+Tuyên Quang,25,Nam,Freelancer,18,4,Không quan trọng,['Máy lạnh'],"{'Latitude': 17.798834, 'Longitude': 103.210013}",Đống Đa,12,2
+Hà Giang,35,Nữ,Nhân viên văn phòng,10,3,Không quan trọng,"['An ninh tốt', 'Bếp', 'Chỗ để xe']","{'Latitude': 18.882436, 'Longitude': 106.662867}",Thanh Oai,50,2
+Tuyên Quang,32,Nữ,Phục vụ,10,1,Không quan trọng,['Bếp'],"{'Latitude': 20.152379, 'Longitude': 106.254893}",Quốc Oai,28,2
+Sơn La,26,Nữ,Nhân viên văn phòng,15,2,Thích yên tĩnh,"['Bếp', 'Máy lạnh']","{'Latitude': 8.413364, 'Longitude': 102.8357}",Thạch Thất,43,2
+Cao Bằng,35,Nữ,Kỹ sư,20,2,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 19.553933, 'Longitude': 106.541753}",Phú Xuyên,27,2
+Quảng Ninh,31,Nam,Phục vụ,7,3,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.128686, 'Longitude': 107.4178}",Sóc Sơn,46,3
+Lào Cai,27,Nữ,Freelancer,5,5,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 8.490269, 'Longitude': 106.746424}",Đông Anh,25,3
+Hòa Bình,26,Nữ,Nhân viên văn phòng,20,2,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.156421, 'Longitude': 105.261199}",Hoàn Kiếm,48,3
+Phú Thọ,32,Nữ,Phục vụ,8,1,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 10.488135, 'Longitude': 105.26643}",Hoàn Kiếm,15,1
+Hải Phòng,31,Nữ,Công nhân,17,1,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 23.139994, 'Longitude': 102.159259}",Gia Lâm,41,1
+Bắc Ninh,35,Nam,Freelancer,19,2,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 17.404097, 'Longitude': 103.163455}",Hoài Đức,33,4
+Bắc Giang,20,Nam,Sinh viên,3,3,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 19.701641, 'Longitude': 104.782411}",Thường Tín,24,4
+Hà Nội,29,Nữ,Công nhân,7,3,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 19.586265, 'Longitude': 103.295956}",Hoài Đức,26,1
+Điện Biên,24,Nam,Công nhân,15,5,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 12.824474, 'Longitude': 108.582655}",Thạch Thất,48,4
+Điện Biên,29,Nữ,Nhân viên văn phòng,8,2,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 13.160089, 'Longitude': 106.513694}",Thanh Trì,26,2
+Yên Bái,33,Nam,Phục vụ,7,3,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 12.602001, 'Longitude': 108.781919}",Ba Đình,20,2
+Cao Bằng,25,Nam,Phục vụ,19,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 21.211903, 'Longitude': 105.000368}",Mỹ Đức,26,2
+Vĩnh Phúc,31,Nữ,Nhân viên văn phòng,8,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh']","{'Latitude': 10.018015, 'Longitude': 108.761084}",Đống Đa,33,1
+Hải Phòng,34,Nam,Phục vụ,17,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 19.187002, 'Longitude': 107.131203}",Đông Anh,45,2
+Thái Bình,31,Nữ,Nhân viên văn phòng,16,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 9.841696, 'Longitude': 103.613574}",Đống Đa,13,3
+Hưng Yên,31,Nữ,Phục vụ,13,1,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 22.124581, 'Longitude': 108.676756}",Đống Đa,19,4
+Hải Phòng,24,Nam,Freelancer,8,5,Nuôi thú cưng,"['Bếp', 'Chỗ để xe']","{'Latitude': 8.556868, 'Longitude': 103.902985}",Đan Phượng,21,1
+Hải Dương,25,Nữ,Nhân viên văn phòng,14,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 11.898156, 'Longitude': 105.621319}",Sóc Sơn,32,3
+Phú Thọ,28,Nam,Công nhân,19,5,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 18.997862, 'Longitude': 108.99111}",Hà Đông,24,4
+Hà Giang,33,Nam,Nhân viên văn phòng,13,5,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 16.953907, 'Longitude': 103.361965}",Sơn Tây,33,2
+Bắc Ninh,26,Nam,Công nhân,10,4,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 21.113756, 'Longitude': 105.666494}",Đông Anh,39,2
+Hưng Yên,21,Nam,Sinh viên,3,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 11.218797, 'Longitude': 107.616432}",Tây Hồ,26,1
+Bắc Giang,31,Nữ,Công nhân,12,2,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 15.414579, 'Longitude': 107.497248}",Long Biên,37,4
+Hà Giang,32,Nữ,Phục vụ,13,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 22.428948, 'Longitude': 102.172057}",Long Biên,24,4
+Thái Nguyên,25,Nữ,Freelancer,8,2,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 11.618207, 'Longitude': 103.644342}",Mỹ Đức,10,2
+Bắc Kạn,20,Nam,Sinh viên,2,5,Không quan trọng,"['An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 16.907674, 'Longitude': 105.901633}",Thường Tín,20,1
+Nam Định,31,Nữ,Nhân viên văn phòng,19,2,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 20.451744, 'Longitude': 103.664255}",Ba Đình,19,2
+Tuyên Quang,24,Nam,Freelancer,16,2,Không quan trọng,"['Bếp', 'Máy lạnh']","{'Latitude': 23.263436, 'Longitude': 105.271266}",Cầu Giấy,24,2
+Nam Định,22,Nữ,Sinh viên,8,4,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Bếp']","{'Latitude': 14.814696, 'Longitude': 104.029279}",Phúc Thọ,34,3
+Quảng Ninh,32,Nam,Kỹ sư,14,3,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 16.768568, 'Longitude': 108.026738}",Mỹ Đức,46,4
+Sơn La,23,Nữ,Công nhân,18,4,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 13.121697, 'Longitude': 107.065339}",Hoàng Mai,14,3
+Bắc Ninh,33,Nam,Nhân viên văn phòng,10,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 15.64396, 'Longitude': 103.122327}",Thanh Xuân,28,3
+Hải Dương,27,Nam,Nhân viên văn phòng,19,2,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 16.94411, 'Longitude': 104.809848}",Phúc Thọ,23,4
+Yên Bái,27,Nữ,Kỹ sư,18,4,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 21.772614, 'Longitude': 102.263414}",Long Biên,20,4
+Hà Nội,31,Nam,Nhân viên văn phòng,10,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 17.82675, 'Longitude': 109.144408}",Hoài Đức,16,4
+Hà Nội,19,Nam,Sinh viên,6,3,Thích yên tĩnh,"['Bếp', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 14.778613, 'Longitude': 102.760285}",Thanh Oai,38,3
+Yên Bái,24,Nữ,Nhân viên văn phòng,6,1,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 13.398343, 'Longitude': 106.04324}",Thanh Xuân,35,4
+Bắc Kạn,29,Nam,Phục vụ,6,2,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 16.01072, 'Longitude': 104.932002}",Ba Vì,48,2
+Hà Giang,19,Nam,Sinh viên,4,4,Nuôi thú cưng,['Bếp'],"{'Latitude': 11.878982, 'Longitude': 107.013495}",Thạch Thất,47,2
+Yên Bái,26,Nữ,Kỹ sư,14,3,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 16.652513, 'Longitude': 108.796977}",Ba Vì,13,2
+Bắc Ninh,34,Nữ,Phục vụ,14,5,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 11.830995, 'Longitude': 104.259743}",Quốc Oai,34,3
+Bắc Ninh,24,Nữ,Phục vụ,8,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 10.562085, 'Longitude': 108.914484}",Hoài Đức,30,2
+Thái Nguyên,34,Nữ,Nhân viên văn phòng,8,2,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 18.764684, 'Longitude': 105.199504}",Thạch Thất,28,2
+Hưng Yên,24,Nữ,Kỹ sư,16,4,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 23.272523, 'Longitude': 106.960333}",Cầu Giấy,27,2
+Bắc Giang,27,Nữ,Nhân viên văn phòng,18,5,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 19.417498, 'Longitude': 108.26303}",Thanh Oai,47,1
+Bắc Ninh,31,Nữ,Freelancer,10,4,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 10.382542, 'Longitude': 108.897266}",Hoàng Mai,32,3
+Lai Châu,29,Nam,Phục vụ,20,3,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 23.290524, 'Longitude': 105.341963}",Nam Từ Liêm,42,4
+Lạng Sơn,28,Nữ,Freelancer,19,1,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 21.384457, 'Longitude': 103.914201}",Phú Xuyên,14,3
+Bắc Ninh,34,Nữ,Kỹ sư,11,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 13.635647, 'Longitude': 104.286513}",Ba Vì,48,4
+Cao Bằng,25,Nữ,Freelancer,18,3,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Bếp']","{'Latitude': 10.632395, 'Longitude': 107.228876}",Đông Anh,15,2
+Phú Thọ,26,Nam,Công nhân,12,5,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 18.280252, 'Longitude': 107.306202}",Hà Đông,14,3
+Cao Bằng,35,Nam,Freelancer,13,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Bếp', 'An ninh tốt']","{'Latitude': 11.952183, 'Longitude': 106.510317}",Phúc Thọ,11,1
+Hải Phòng,24,Nữ,Kỹ sư,9,2,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp']","{'Latitude': 16.053105, 'Longitude': 103.989004}",Phúc Thọ,39,3
+Thái Nguyên,21,Nữ,Sinh viên,3,1,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 18.110858, 'Longitude': 107.452828}",Ba Đình,22,2
+Bắc Kạn,24,Nam,Nhân viên văn phòng,8,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 11.487316, 'Longitude': 105.350566}",Đan Phượng,23,3
+Bắc Giang,26,Nam,Phục vụ,13,5,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 13.334398, 'Longitude': 107.222432}",Hoàng Mai,45,2
+Lai Châu,31,Nam,Phục vụ,18,2,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 15.562355, 'Longitude': 104.983951}",Gia Lâm,45,1
+Lào Cai,32,Nữ,Phục vụ,5,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 17.208556, 'Longitude': 106.085993}",Thường Tín,46,3
+Thái Bình,21,Nữ,Sinh viên,2,5,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 16.212154, 'Longitude': 104.700733}",Hoài Đức,46,1
+Vĩnh Phúc,34,Nam,Nhân viên văn phòng,16,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 11.091485, 'Longitude': 104.287458}",Hà Đông,22,3
+Nam Định,34,Nam,Nhân viên văn phòng,10,3,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 18.232727, 'Longitude': 102.166501}",Ba Đình,49,1
+Quảng Ninh,32,Nữ,Kỹ sư,11,2,Không quan trọng,['Bếp'],"{'Latitude': 19.811846, 'Longitude': 102.893025}",Sóc Sơn,33,4
+Sơn La,20,Nữ,Sinh viên,6,2,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 18.804786, 'Longitude': 103.006314}",Cầu Giấy,12,2
+Điện Biên,30,Nam,Công nhân,13,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 19.373172, 'Longitude': 108.91399}",Thanh Trì,14,4
+Nam Định,35,Nam,Công nhân,11,2,Nuôi thú cưng,"['Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 12.283571, 'Longitude': 107.201433}",Phú Xuyên,28,2
+Hải Dương,30,Nữ,Kỹ sư,15,3,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 17.112577, 'Longitude': 103.998206}",Bắc Từ Liêm,45,3
+Hải Dương,33,Nam,Freelancer,12,4,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 14.008664, 'Longitude': 104.091362}",Hoài Đức,21,2
+Hà Giang,27,Nam,Freelancer,12,3,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 23.154528, 'Longitude': 102.627171}",Ba Đình,10,3
+Cao Bằng,32,Nam,Công nhân,15,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 12.084612, 'Longitude': 106.101637}",Phúc Thọ,35,3
+Hà Nam,33,Nam,Freelancer,14,1,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Nội thất sẵn']","{'Latitude': 11.377974, 'Longitude': 102.85519}",Hoàng Mai,19,3
+Hà Giang,26,Nam,Freelancer,9,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 12.529619, 'Longitude': 107.416883}",Bắc Từ Liêm,22,2
+Tuyên Quang,25,Nam,Công nhân,13,5,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 10.398007, 'Longitude': 103.395216}",Chương Mỹ,49,3
+Cao Bằng,25,Nam,Nhân viên văn phòng,12,5,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 19.647848, 'Longitude': 108.426707}",Hà Đông,35,4
+Hải Phòng,28,Nam,Công nhân,11,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 18.49083, 'Longitude': 105.242827}",Cầu Giấy,32,2
+Ninh Bình,23,Nữ,Phục vụ,14,3,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 12.259656, 'Longitude': 105.736213}",Ba Đình,29,1
+Phú Thọ,28,Nữ,Kỹ sư,6,5,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 19.949152, 'Longitude': 106.962332}",Hai Bà Trưng,11,3
+Vĩnh Phúc,30,Nam,Phục vụ,15,3,Không quan trọng,"['Bếp', 'Nội thất sẵn']","{'Latitude': 13.940766, 'Longitude': 106.168946}",Cầu Giấy,34,4
+Bắc Kạn,34,Nữ,Kỹ sư,20,3,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 19.739027, 'Longitude': 106.169244}",Mỹ Đức,29,1
+Thái Nguyên,27,Nam,Freelancer,15,2,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 15.55922, 'Longitude': 102.930011}",Sơn Tây,16,2
+Hải Dương,23,Nam,Công nhân,11,3,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 22.192458, 'Longitude': 102.649113}",Thanh Oai,44,1
+Vĩnh Phúc,26,Nam,Kỹ sư,6,4,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 15.859645, 'Longitude': 104.963257}",Thanh Oai,48,4
+Quảng Ninh,30,Nam,Nhân viên văn phòng,9,2,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe']","{'Latitude': 20.572826, 'Longitude': 102.807559}",Sơn Tây,12,1
+Điện Biên,24,Nam,Nhân viên văn phòng,15,1,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 18.956, 'Longitude': 103.715678}",Hoàn Kiếm,26,1
+Tuyên Quang,23,Nam,Phục vụ,8,3,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 9.370187, 'Longitude': 107.555917}",Thạch Thất,30,4
+Bắc Ninh,33,Nam,Phục vụ,6,1,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 14.888815, 'Longitude': 108.309926}",Đống Đa,37,4
+Hà Nội,35,Nữ,Công nhân,10,2,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 14.639599, 'Longitude': 108.605388}",Nam Từ Liêm,44,4
+Lạng Sơn,32,Nam,Nhân viên văn phòng,9,3,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 16.496693, 'Longitude': 103.994911}",Mỹ Đức,17,4
+Lào Cai,28,Nam,Freelancer,14,2,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 14.86223, 'Longitude': 102.930642}",Ba Vì,40,2
+Quảng Ninh,27,Nữ,Kỹ sư,15,1,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 17.047509, 'Longitude': 105.290398}",Đan Phượng,11,1
+Hà Nam,31,Nữ,Công nhân,15,2,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 16.47388, 'Longitude': 104.529613}",Đống Đa,32,1
+Yên Bái,33,Nam,Phục vụ,13,4,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt', 'Bếp']","{'Latitude': 9.413355, 'Longitude': 104.752988}",Sóc Sơn,27,1
+Lai Châu,33,Nữ,Kỹ sư,13,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 9.535065, 'Longitude': 106.404151}",Mỹ Đức,28,4
+Yên Bái,31,Nữ,Phục vụ,5,3,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 12.42882, 'Longitude': 104.783554}",Sơn Tây,11,1
+Bắc Ninh,21,Nữ,Sinh viên,8,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 13.940785, 'Longitude': 102.981328}",Thường Tín,35,2
+Bắc Giang,27,Nữ,Nhân viên văn phòng,10,4,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 19.426735, 'Longitude': 103.684731}",Gia Lâm,20,1
+Quảng Ninh,24,Nữ,Kỹ sư,12,2,Không quan trọng,['Máy lạnh'],"{'Latitude': 20.757145, 'Longitude': 106.336798}",Quốc Oai,35,3
+Bắc Giang,22,Nam,Sinh viên,2,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 9.492365, 'Longitude': 107.276864}",Thường Tín,42,2
+Thái Bình,27,Nam,Công nhân,15,4,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 12.758937, 'Longitude': 106.924237}",Tây Hồ,22,1
+Phú Thọ,31,Nam,Công nhân,17,2,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 11.376254, 'Longitude': 106.424328}",Quốc Oai,23,1
+Hưng Yên,23,Nam,Công nhân,17,1,Không quan trọng,"['Bếp', 'Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 11.355389, 'Longitude': 107.133302}",Đống Đa,16,4
+Nam Định,23,Nam,Công nhân,17,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 17.86238, 'Longitude': 106.736905}",Thanh Oai,44,4
+Lạng Sơn,35,Nữ,Nhân viên văn phòng,19,3,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 16.09848, 'Longitude': 108.323011}",Gia Lâm,13,1
+Phú Thọ,21,Nam,Sinh viên,6,2,Nuôi thú cưng,"['Bếp', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 21.639107, 'Longitude': 108.593769}",Hoàn Kiếm,37,3
+Vĩnh Phúc,30,Nữ,Phục vụ,15,2,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 16.554867, 'Longitude': 104.699598}",Sóc Sơn,44,3
+Thái Bình,32,Nữ,Phục vụ,7,3,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 18.204559, 'Longitude': 103.792688}",Nam Từ Liêm,33,4
+Bắc Giang,23,Nam,Freelancer,13,4,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 10.472016, 'Longitude': 108.520478}",Thanh Oai,21,1
+Tuyên Quang,26,Nam,Công nhân,16,1,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 16.332703, 'Longitude': 103.90234}",Mỹ Đức,47,4
+Vĩnh Phúc,25,Nữ,Kỹ sư,20,5,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 14.586624, 'Longitude': 102.941992}",Đông Anh,15,4
+Thái Nguyên,29,Nữ,Kỹ sư,12,5,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 18.133659, 'Longitude': 107.025617}",Quốc Oai,46,4
+Hà Nội,23,Nam,Nhân viên văn phòng,14,4,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 15.262859, 'Longitude': 109.194785}",Đan Phượng,48,1
+Ninh Bình,24,Nữ,Freelancer,19,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 19.139099, 'Longitude': 104.554414}",Hai Bà Trưng,43,1
+Hòa Bình,28,Nữ,Nhân viên văn phòng,19,4,Không quan trọng,['Máy lạnh'],"{'Latitude': 20.85138, 'Longitude': 103.128229}",Gia Lâm,25,2
+Bắc Giang,22,Nữ,Sinh viên,0,4,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 18.071599, 'Longitude': 104.413266}",Đông Anh,17,4
+Hòa Bình,25,Nam,Kỹ sư,11,2,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh', 'Bếp']","{'Latitude': 21.347816, 'Longitude': 105.167889}",Gia Lâm,39,1
+Hải Dương,24,Nam,Phục vụ,15,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 21.456319, 'Longitude': 104.940919}",Hà Đông,28,4
+Ninh Bình,18,Nam,Sinh viên,3,5,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 19.010179, 'Longitude': 105.491301}",Bắc Từ Liêm,25,3
+Hưng Yên,31,Nữ,Freelancer,11,1,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 20.729111, 'Longitude': 105.239029}",Thường Tín,32,1
+Bắc Giang,26,Nam,Kỹ sư,18,1,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 22.70269, 'Longitude': 105.953569}",Ứng Hòa,32,2
+Nam Định,27,Nữ,Công nhân,18,3,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 15.677536, 'Longitude': 102.245076}",Long Biên,19,2
+Phú Thọ,30,Nam,Công nhân,13,2,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 11.467265, 'Longitude': 106.842794}",Thanh Oai,22,1
+Bắc Ninh,27,Nam,Kỹ sư,17,5,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'An ninh tốt']","{'Latitude': 22.411471, 'Longitude': 102.300472}",Hoàng Mai,41,4
+Lai Châu,31,Nam,Freelancer,7,5,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 12.591871, 'Longitude': 109.237265}",Hoàn Kiếm,33,1
+Hải Dương,32,Nam,Phục vụ,10,1,Nuôi thú cưng,"['Chỗ để xe', 'Bếp']","{'Latitude': 14.221861, 'Longitude': 103.693586}",Đống Đa,29,4
+Lào Cai,34,Nữ,Phục vụ,8,5,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 10.933271, 'Longitude': 109.292876}",Ba Đình,24,3
+Lào Cai,34,Nam,Phục vụ,19,1,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 14.306122, 'Longitude': 104.363146}",Thường Tín,35,4
+Hà Giang,29,Nam,Nhân viên văn phòng,14,2,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 13.777707, 'Longitude': 105.085324}",Ba Vì,35,2
+Bắc Giang,35,Nam,Nhân viên văn phòng,13,3,Không quan trọng,"['Máy lạnh', 'Bếp']","{'Latitude': 9.438286, 'Longitude': 109.25837}",Tây Hồ,24,4
+Lào Cai,24,Nữ,Nhân viên văn phòng,11,1,Không quan trọng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 21.596708, 'Longitude': 106.362772}",Hoàng Mai,46,4
+Nam Định,26,Nữ,Công nhân,13,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 21.453371, 'Longitude': 105.361346}",Hà Đông,39,1
+Yên Bái,32,Nữ,Phục vụ,19,5,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 18.262532, 'Longitude': 104.965792}",Ba Đình,39,3
+Phú Thọ,26,Nữ,Phục vụ,6,1,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Nội thất sẵn', 'Bếp']","{'Latitude': 19.524572, 'Longitude': 108.584266}",Chương Mỹ,40,2
+Hà Giang,23,Nữ,Nhân viên văn phòng,13,5,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 21.412319, 'Longitude': 109.424484}",Phúc Thọ,43,4
+Thái Nguyên,23,Nữ,Kỹ sư,13,2,Không quan trọng,"['Bếp', 'An ninh tốt', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 9.845491, 'Longitude': 104.257665}",Quốc Oai,26,1
+Quảng Ninh,23,Nữ,Công nhân,12,1,Không quan trọng,"['An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 9.361677, 'Longitude': 104.75369}",Bắc Từ Liêm,38,1
+Bắc Giang,19,Nam,Sinh viên,10,3,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Máy lạnh']","{'Latitude': 10.500606, 'Longitude': 106.535239}",Tây Hồ,50,4
+Lai Châu,24,Nữ,Công nhân,20,2,Nuôi thú cưng,"['Bếp', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 15.675476, 'Longitude': 109.049843}",Tây Hồ,15,2
+Sơn La,24,Nam,Kỹ sư,6,1,Không quan trọng,"['Chỗ để xe', 'Máy lạnh', 'Bếp']","{'Latitude': 11.204711, 'Longitude': 105.653672}",Quốc Oai,45,1
+Yên Bái,19,Nữ,Sinh viên,8,3,Không quan trọng,"['Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 11.500189, 'Longitude': 104.581242}",Thanh Oai,47,4
+Vĩnh Phúc,23,Nữ,Phục vụ,13,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 14.070931, 'Longitude': 107.911109}",Sơn Tây,34,3
+Tuyên Quang,23,Nam,Freelancer,5,1,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 16.16826, 'Longitude': 105.871883}",Phúc Thọ,47,4
+Lai Châu,34,Nữ,Công nhân,12,2,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 19.654686, 'Longitude': 107.138715}",Sơn Tây,37,2
+Hà Giang,31,Nam,Kỹ sư,10,2,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 13.233905, 'Longitude': 104.540117}",Phú Xuyên,18,2
+Hưng Yên,35,Nam,Freelancer,16,3,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 16.740166, 'Longitude': 105.29393}",Quốc Oai,17,1
+Điện Biên,35,Nam,Phục vụ,10,2,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 11.757367, 'Longitude': 108.812906}",Đan Phượng,48,4
+Lạng Sơn,34,Nữ,Kỹ sư,20,1,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Bếp']","{'Latitude': 9.428035, 'Longitude': 103.762701}",Sóc Sơn,25,3
+Quảng Ninh,33,Nữ,Freelancer,17,4,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 16.507898, 'Longitude': 109.031679}",Hà Đông,15,1
+Hưng Yên,31,Nam,Kỹ sư,7,3,Thích yên tĩnh,"['Bếp', 'An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 14.444514, 'Longitude': 105.206118}",Sơn Tây,11,3
+Yên Bái,35,Nam,Kỹ sư,11,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 17.830482, 'Longitude': 109.319716}",Ba Vì,26,3
+Cao Bằng,32,Nữ,Công nhân,8,5,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe', 'Bếp']","{'Latitude': 12.459507, 'Longitude': 108.851734}",Hai Bà Trưng,27,2
+Lai Châu,33,Nữ,Nhân viên văn phòng,5,1,Nuôi thú cưng,"['Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 18.350683, 'Longitude': 102.893298}",Hà Đông,25,4
+Ninh Bình,27,Nữ,Phục vụ,9,4,Không quan trọng,['Máy lạnh'],"{'Latitude': 10.829416, 'Longitude': 104.675903}",Gia Lâm,19,4
+Hải Dương,27,Nam,Freelancer,7,4,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 18.233492, 'Longitude': 103.12045}",Bắc Từ Liêm,42,3
+Hải Phòng,27,Nam,Phục vụ,7,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 9.27975, 'Longitude': 108.2477}",Long Biên,26,1
+Thái Nguyên,27,Nam,Nhân viên văn phòng,12,4,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 21.36687, 'Longitude': 106.084808}",Chương Mỹ,20,4
+Điện Biên,28,Nam,Kỹ sư,5,2,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 17.727376, 'Longitude': 106.015516}",Tây Hồ,25,4
+Bắc Giang,34,Nữ,Freelancer,19,5,Thích yên tĩnh,"['An ninh tốt', 'Bếp', 'Nội thất sẵn']","{'Latitude': 13.805458, 'Longitude': 106.665449}",Đan Phượng,29,3
+Sơn La,24,Nam,Kỹ sư,19,4,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 13.06772, 'Longitude': 108.381557}",Đông Anh,40,4
+Lạng Sơn,35,Nữ,Freelancer,15,4,Thích yên tĩnh,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 23.009188, 'Longitude': 108.848572}",Thanh Trì,35,1
+Yên Bái,21,Nữ,Sinh viên,6,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 21.746188, 'Longitude': 103.297388}",Phúc Thọ,34,3
+Sơn La,24,Nữ,Phục vụ,18,1,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 14.796396, 'Longitude': 106.775745}",Cầu Giấy,47,4
+Bắc Ninh,31,Nam,Phục vụ,6,5,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 21.27616, 'Longitude': 105.542815}",Hà Đông,25,3
+Vĩnh Phúc,26,Nam,Nhân viên văn phòng,7,4,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 23.213032, 'Longitude': 106.444978}",Đống Đa,27,2
+Nam Định,30,Nam,Freelancer,16,4,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'Chỗ để xe']","{'Latitude': 20.494539, 'Longitude': 103.124523}",Thường Tín,43,2
+Thái Nguyên,24,Nam,Kỹ sư,9,1,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 12.333628, 'Longitude': 105.648107}",Sóc Sơn,15,1
+Hòa Bình,30,Nam,Nhân viên văn phòng,15,1,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 13.423174, 'Longitude': 108.328983}",Phú Xuyên,17,4
+Hải Dương,21,Nữ,Sinh viên,10,1,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 13.805683, 'Longitude': 104.983448}",Thanh Xuân,38,4
+Ninh Bình,24,Nữ,Kỹ sư,11,1,Không quan trọng,['Bếp'],"{'Latitude': 22.275406, 'Longitude': 107.882604}",Nam Từ Liêm,48,1
+Lạng Sơn,25,Nam,Kỹ sư,20,4,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 11.033163, 'Longitude': 105.711316}",Ba Đình,27,4
+Sơn La,26,Nữ,Kỹ sư,5,4,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 14.997594, 'Longitude': 106.065784}",Ba Đình,13,2
+Hải Dương,26,Nữ,Kỹ sư,13,3,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 11.816499, 'Longitude': 107.116595}",Ba Vì,39,1
+Quảng Ninh,27,Nữ,Nhân viên văn phòng,11,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 16.479972, 'Longitude': 105.457008}",Ứng Hòa,16,1
+Sơn La,22,Nam,Sinh viên,10,1,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 20.97747, 'Longitude': 107.728283}",Sóc Sơn,41,1
+Bắc Kạn,33,Nữ,Kỹ sư,16,5,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 13.866076, 'Longitude': 102.510126}",Hai Bà Trưng,44,1
+Bắc Giang,24,Nữ,Phục vụ,11,5,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 21.096336, 'Longitude': 106.196005}",Sơn Tây,41,2
+Lào Cai,32,Nam,Công nhân,11,3,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 11.59136, 'Longitude': 107.404904}",Gia Lâm,42,3
+Thái Bình,34,Nam,Freelancer,12,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 20.419122, 'Longitude': 107.620025}",Thanh Xuân,35,1
+Thái Bình,20,Nam,Sinh viên,2,3,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 8.183251, 'Longitude': 102.860912}",Long Biên,38,2
+Nam Định,25,Nữ,Nhân viên văn phòng,6,5,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 15.769836, 'Longitude': 103.067051}",Thanh Xuân,49,3
+Hải Dương,32,Nữ,Công nhân,20,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 10.220037, 'Longitude': 108.042257}",Long Biên,24,3
+Lào Cai,30,Nữ,Công nhân,12,1,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 14.24151, 'Longitude': 104.954031}",Ba Vì,41,3
+Thái Nguyên,27,Nam,Công nhân,12,5,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 22.55423, 'Longitude': 107.674911}",Thanh Oai,37,2
+Bắc Ninh,28,Nam,Nhân viên văn phòng,6,1,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 15.686729, 'Longitude': 108.581232}",Hoàng Mai,26,4
+Tuyên Quang,29,Nam,Freelancer,5,4,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 22.718763, 'Longitude': 102.963471}",Long Biên,38,1
+Cao Bằng,27,Nữ,Công nhân,11,5,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 8.951129, 'Longitude': 107.865993}",Thanh Oai,17,1
+Vĩnh Phúc,18,Nữ,Sinh viên,2,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 14.651792, 'Longitude': 105.633158}",Thường Tín,22,1
+Yên Bái,28,Nam,Kỹ sư,17,1,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 16.020314, 'Longitude': 109.455884}",Đông Anh,46,2
+Hà Giang,28,Nữ,Freelancer,16,3,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 11.938297, 'Longitude': 102.364393}",Thanh Oai,40,4
+Hà Nam,29,Nam,Freelancer,6,1,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 16.527483, 'Longitude': 108.18651}",Sơn Tây,37,3
+Nam Định,28,Nam,Freelancer,5,5,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 8.495243, 'Longitude': 102.851833}",Thanh Xuân,29,1
+Thái Bình,35,Nữ,Kỹ sư,18,1,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 12.683586, 'Longitude': 107.348319}",Thanh Oai,13,2
+Lạng Sơn,31,Nam,Kỹ sư,16,1,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'Bếp', 'Chỗ để xe']","{'Latitude': 17.425972, 'Longitude': 105.313756}",Long Biên,46,3
+Bắc Kạn,22,Nữ,Sinh viên,2,5,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 19.975698, 'Longitude': 108.213561}",Tây Hồ,20,1
+Phú Thọ,35,Nữ,Kỹ sư,11,5,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 19.11187, 'Longitude': 104.57751}",Quốc Oai,40,3
+Nam Định,25,Nam,Công nhân,16,1,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 17.792571, 'Longitude': 105.253139}",Đan Phượng,45,3
+Hưng Yên,31,Nam,Freelancer,19,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 12.52592, 'Longitude': 103.094196}",Sóc Sơn,34,3
+Hòa Bình,32,Nam,Công nhân,18,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 23.294082, 'Longitude': 107.152089}",Long Biên,26,2
+Lạng Sơn,27,Nữ,Kỹ sư,6,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 15.023306, 'Longitude': 103.304799}",Hoàn Kiếm,10,2
+Bắc Kạn,25,Nữ,Công nhân,18,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 22.308986, 'Longitude': 104.321634}",Bắc Từ Liêm,29,3
+Điện Biên,23,Nữ,Công nhân,16,1,Thích yên tĩnh,"['Chỗ để xe', 'Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 12.164186, 'Longitude': 102.59992}",Hoàng Mai,16,2
+Nam Định,35,Nam,Nhân viên văn phòng,16,3,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 16.117941, 'Longitude': 104.296903}",Thanh Xuân,23,3
+Lào Cai,28,Nam,Công nhân,5,1,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 22.78821, 'Longitude': 108.872897}",Hoài Đức,48,2
+Cao Bằng,24,Nữ,Nhân viên văn phòng,15,3,Thích yên tĩnh,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 17.865493, 'Longitude': 104.487497}",Tây Hồ,42,4
+Hà Nam,32,Nữ,Công nhân,18,2,Không quan trọng,"['Chỗ để xe', 'Bếp']","{'Latitude': 12.855915, 'Longitude': 108.794781}",Thạch Thất,17,4
+Vĩnh Phúc,22,Nam,Sinh viên,2,5,Thích yên tĩnh,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe', 'Bếp']","{'Latitude': 18.271947, 'Longitude': 106.739908}",Đông Anh,10,2
+Hòa Bình,29,Nam,Nhân viên văn phòng,16,2,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 10.386649, 'Longitude': 103.192689}",Ba Vì,14,2
+Lai Châu,23,Nam,Phục vụ,7,3,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 12.939974, 'Longitude': 105.575522}",Ba Vì,25,1
+Lạng Sơn,20,Nữ,Sinh viên,1,4,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 21.82616, 'Longitude': 104.436248}",Tây Hồ,11,1
+Lạng Sơn,25,Nam,Freelancer,12,2,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 16.76582, 'Longitude': 105.652702}",Hà Đông,17,1
+Bắc Giang,30,Nam,Công nhân,14,3,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 21.888294, 'Longitude': 107.247351}",Thanh Oai,32,4
+Hải Phòng,22,Nam,Sinh viên,8,5,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 22.339073, 'Longitude': 106.386358}",Chương Mỹ,40,2
+Hòa Bình,29,Nam,Công nhân,9,3,Không quan trọng,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 11.31784, 'Longitude': 102.649166}",Ba Đình,29,1
+Hà Nội,27,Nữ,Công nhân,16,3,Không quan trọng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 16.374713, 'Longitude': 105.701069}",Phúc Thọ,47,1
+Lạng Sơn,22,Nữ,Sinh viên,2,3,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 9.451787, 'Longitude': 105.453669}",Phúc Thọ,20,2
+Tuyên Quang,25,Nữ,Freelancer,13,5,Không quan trọng,"['An ninh tốt', 'Bếp']","{'Latitude': 19.58967, 'Longitude': 106.045529}",Cầu Giấy,18,1
+Sơn La,24,Nữ,Freelancer,12,4,Thích yên tĩnh,"['Máy lạnh', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 9.192101, 'Longitude': 103.832637}",Tây Hồ,39,2
+Ninh Bình,18,Nữ,Sinh viên,5,5,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 20.124227, 'Longitude': 103.591596}",Thạch Thất,15,1
+Cao Bằng,32,Nam,Freelancer,7,3,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 15.396575, 'Longitude': 104.045082}",Thường Tín,41,1
+Cao Bằng,34,Nam,Phục vụ,15,3,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 17.707314, 'Longitude': 108.912116}",Hai Bà Trưng,33,3
+Hà Nội,29,Nam,Công nhân,8,5,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'Bếp']","{'Latitude': 16.885897, 'Longitude': 106.910471}",Thanh Xuân,22,4
+Cao Bằng,28,Nữ,Phục vụ,7,3,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh']","{'Latitude': 22.942095, 'Longitude': 109.362336}",Hà Đông,26,3
+Vĩnh Phúc,34,Nam,Nhân viên văn phòng,19,5,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 21.780382, 'Longitude': 105.648368}",Quốc Oai,48,4
+Lào Cai,25,Nam,Kỹ sư,20,5,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 15.433686, 'Longitude': 102.687296}",Long Biên,47,3
+Cao Bằng,19,Nam,Sinh viên,4,5,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Nội thất sẵn']","{'Latitude': 12.11422, 'Longitude': 102.854273}",Chương Mỹ,11,1
+Hưng Yên,23,Nam,Phục vụ,13,4,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 13.880892, 'Longitude': 103.209556}",Nam Từ Liêm,27,2
+Điện Biên,31,Nữ,Freelancer,20,4,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 16.135041, 'Longitude': 105.483495}",Ba Đình,26,3
+Ninh Bình,18,Nam,Sinh viên,9,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 19.870102, 'Longitude': 106.784146}",Sơn Tây,16,3
+Hưng Yên,35,Nữ,Nhân viên văn phòng,20,5,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt', 'Bếp', 'Máy lạnh']","{'Latitude': 19.894187, 'Longitude': 103.296044}",Ba Vì,20,2
+Hải Dương,29,Nam,Nhân viên văn phòng,14,5,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'Bếp']","{'Latitude': 20.647244, 'Longitude': 108.231229}",Thường Tín,38,4
+Bắc Kạn,31,Nam,Nhân viên văn phòng,13,3,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe', 'Bếp']","{'Latitude': 14.252357, 'Longitude': 107.151339}",Thanh Trì,17,3
+Bắc Giang,23,Nam,Freelancer,16,4,Thích yên tĩnh,['Bếp'],"{'Latitude': 8.21991, 'Longitude': 103.086604}",Chương Mỹ,33,2
+Điện Biên,26,Nữ,Phục vụ,9,3,Không quan trọng,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 16.949862, 'Longitude': 105.436581}",Hai Bà Trưng,48,3
+Điện Biên,23,Nữ,Freelancer,10,5,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 22.782694, 'Longitude': 104.779566}",Thanh Trì,50,2
+Quảng Ninh,26,Nữ,Phục vụ,5,4,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 23.001067, 'Longitude': 105.907621}",Hoàn Kiếm,39,2
+Lai Châu,29,Nữ,Phục vụ,20,1,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 16.428304, 'Longitude': 106.305462}",Hoài Đức,30,4
+Bắc Ninh,34,Nữ,Công nhân,5,5,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 22.706886, 'Longitude': 104.063167}",Đan Phượng,20,1
+Bắc Kạn,23,Nữ,Freelancer,10,5,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 8.466939, 'Longitude': 105.313888}",Phú Xuyên,21,4
+Bắc Ninh,32,Nam,Kỹ sư,14,3,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 20.751378, 'Longitude': 108.738242}",Mỹ Đức,29,1
+Hòa Bình,22,Nữ,Sinh viên,8,1,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 22.779598, 'Longitude': 102.171049}",Cầu Giấy,17,1
+Tuyên Quang,20,Nữ,Sinh viên,9,4,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 22.850965, 'Longitude': 102.362751}",Hà Đông,40,4
+Hà Nam,24,Nam,Freelancer,15,5,Không quan trọng,"['Máy lạnh', 'An ninh tốt']","{'Latitude': 16.765596, 'Longitude': 108.092466}",Thanh Oai,38,3
+Hưng Yên,21,Nam,Sinh viên,3,5,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.262274, 'Longitude': 108.615248}",Hai Bà Trưng,33,1
+Thái Nguyên,22,Nữ,Sinh viên,8,2,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 22.466549, 'Longitude': 104.010783}",Đông Anh,14,2
+Cao Bằng,28,Nam,Công nhân,12,2,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 8.251665, 'Longitude': 104.395033}",Sóc Sơn,34,1
+Bắc Giang,26,Nữ,Nhân viên văn phòng,18,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 14.530577, 'Longitude': 104.98466}",Gia Lâm,22,3
+Hưng Yên,30,Nữ,Kỹ sư,18,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 17.057441, 'Longitude': 103.119791}",Hai Bà Trưng,46,4
+Yên Bái,34,Nữ,Nhân viên văn phòng,15,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 15.190849, 'Longitude': 105.512973}",Chương Mỹ,34,1
+Quảng Ninh,26,Nam,Nhân viên văn phòng,18,2,Không quan trọng,"['Bếp', 'Nội thất sẵn']","{'Latitude': 9.662971, 'Longitude': 108.16738}",Thanh Xuân,19,2
+Hưng Yên,27,Nam,Nhân viên văn phòng,13,2,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 18.818606, 'Longitude': 108.009906}",Đông Anh,42,4
+Quảng Ninh,32,Nam,Công nhân,8,4,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 16.423947, 'Longitude': 107.186006}",Hà Đông,19,2
+Sơn La,33,Nữ,Phục vụ,7,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 14.652169, 'Longitude': 109.236195}",Ba Đình,10,2
+Yên Bái,30,Nam,Nhân viên văn phòng,20,1,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 22.891224, 'Longitude': 103.16577}",Đan Phượng,33,3
+Sơn La,28,Nữ,Kỹ sư,14,1,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 11.514171, 'Longitude': 106.147243}",Hà Đông,28,4
+Sơn La,30,Nữ,Kỹ sư,14,4,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 22.591693, 'Longitude': 107.807327}",Phú Xuyên,35,3
+Bắc Giang,31,Nữ,Công nhân,14,3,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'Bếp']","{'Latitude': 19.86451, 'Longitude': 109.074008}",Hà Đông,26,2
+Quảng Ninh,18,Nữ,Sinh viên,7,1,Không quan trọng,"['Máy lạnh', 'An ninh tốt']","{'Latitude': 13.028404, 'Longitude': 107.79674}",Quốc Oai,50,4
+Lạng Sơn,29,Nam,Freelancer,16,1,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 14.852595, 'Longitude': 106.245183}",Phú Xuyên,43,2
+Hà Giang,32,Nữ,Freelancer,18,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 16.480926, 'Longitude': 108.574153}",Hoàn Kiếm,24,4
+Sơn La,26,Nam,Phục vụ,15,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 10.636957, 'Longitude': 109.303276}",Đông Anh,33,2
+Hòa Bình,34,Nữ,Kỹ sư,16,2,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.526993, 'Longitude': 105.252997}",Phúc Thọ,18,1
+Sơn La,28,Nam,Phục vụ,8,2,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 12.483909, 'Longitude': 102.92522}",Mỹ Đức,45,1
+Phú Thọ,30,Nữ,Phục vụ,13,3,Không quan trọng,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 16.973659, 'Longitude': 106.346503}",Đông Anh,24,1
+Bắc Kạn,25,Nữ,Kỹ sư,14,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 21.472496, 'Longitude': 103.775587}",Bắc Từ Liêm,35,3
+Lạng Sơn,31,Nam,Công nhân,13,2,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 10.277891, 'Longitude': 102.365462}",Mỹ Đức,50,4
+Hưng Yên,24,Nữ,Nhân viên văn phòng,14,5,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 19.448064, 'Longitude': 102.871556}",Thường Tín,24,3
+Hà Nam,26,Nữ,Freelancer,14,5,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 9.069485, 'Longitude': 106.555166}",Phú Xuyên,11,4
+Lào Cai,22,Nữ,Sinh viên,5,3,Nuôi thú cưng,"['Bếp', 'Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 22.479134, 'Longitude': 102.942008}",Thanh Trì,44,3
+Tuyên Quang,31,Nam,Freelancer,8,4,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 22.002305, 'Longitude': 104.915053}",Mỹ Đức,35,2
+Điện Biên,26,Nữ,Kỹ sư,12,5,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 8.655763, 'Longitude': 109.343295}",Hoàn Kiếm,19,4
+Điện Biên,32,Nữ,Freelancer,9,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 19.275219, 'Longitude': 105.704995}",Đống Đa,22,4
+Vĩnh Phúc,24,Nam,Nhân viên văn phòng,18,1,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 11.669715, 'Longitude': 108.888741}",Hà Đông,24,4
+Bắc Ninh,31,Nam,Freelancer,18,1,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 15.295827, 'Longitude': 106.014475}",Gia Lâm,30,1
+Tuyên Quang,31,Nữ,Nhân viên văn phòng,10,4,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 22.006335, 'Longitude': 105.437088}",Đan Phượng,39,3
+Bắc Ninh,31,Nam,Freelancer,14,1,Không quan trọng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe']","{'Latitude': 13.773375, 'Longitude': 106.581017}",Long Biên,48,4
+Lạng Sơn,30,Nam,Freelancer,6,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 12.266509, 'Longitude': 103.960237}",Phú Xuyên,36,4
+Hà Nội,26,Nam,Freelancer,6,2,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 12.032163, 'Longitude': 109.382401}",Đông Anh,31,4
+Hưng Yên,26,Nam,Freelancer,12,3,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 21.982563, 'Longitude': 108.66992}",Ba Vì,17,3
+Hòa Bình,29,Nam,Freelancer,5,5,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp', 'Chỗ để xe']","{'Latitude': 19.056756, 'Longitude': 105.265675}",Thanh Trì,18,3
+Thái Nguyên,27,Nam,Phục vụ,11,3,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 18.051986, 'Longitude': 106.96031}",Hoàn Kiếm,34,1
+Bắc Kạn,33,Nam,Freelancer,17,1,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 16.635011, 'Longitude': 107.360993}",Nam Từ Liêm,14,4
+Hà Nội,23,Nữ,Phục vụ,19,5,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 23.328389, 'Longitude': 109.412524}",Gia Lâm,22,2
+Điện Biên,27,Nam,Phục vụ,11,5,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 8.353565, 'Longitude': 106.162579}",Thạch Thất,33,2
+Ninh Bình,23,Nam,Kỹ sư,8,1,Thích yên tĩnh,['Bếp'],"{'Latitude': 13.094808, 'Longitude': 106.06378}",Ứng Hòa,49,3
+Lạng Sơn,22,Nam,Sinh viên,4,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt', 'Bếp']","{'Latitude': 9.183295, 'Longitude': 103.029588}",Ba Đình,15,1
+Nam Định,25,Nam,Công nhân,6,5,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 18.680038, 'Longitude': 106.477846}",Thạch Thất,37,2
+Tuyên Quang,32,Nữ,Công nhân,15,2,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 22.536272, 'Longitude': 102.33495}",Gia Lâm,11,4
+Thái Bình,20,Nữ,Sinh viên,6,5,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 20.584023, 'Longitude': 104.944079}",Phú Xuyên,46,3
+Hà Nội,31,Nữ,Công nhân,14,3,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 18.115203, 'Longitude': 103.245615}",Phú Xuyên,13,2
+Ninh Bình,27,Nam,Kỹ sư,5,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 8.870475, 'Longitude': 109.41277}",Hoài Đức,10,2
+Vĩnh Phúc,31,Nam,Freelancer,10,2,Nuôi thú cưng,"['Bếp', 'Máy lạnh']","{'Latitude': 20.45438, 'Longitude': 107.530779}",Hoàn Kiếm,20,1
+Hà Nam,19,Nữ,Sinh viên,7,3,Không quan trọng,['Bếp'],"{'Latitude': 16.847615, 'Longitude': 102.313189}",Đống Đa,46,3
+Hưng Yên,24,Nam,Kỹ sư,12,2,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 10.186562, 'Longitude': 105.146133}",Ba Đình,23,1
+Hải Dương,33,Nữ,Kỹ sư,7,4,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 15.455236, 'Longitude': 105.446356}",Đông Anh,26,1
+Nam Định,30,Nữ,Công nhân,6,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 11.869284, 'Longitude': 105.349874}",Hoàng Mai,17,1
+Hà Nội,27,Nữ,Kỹ sư,17,3,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 21.872224, 'Longitude': 107.40656}",Đông Anh,14,1
+Thái Bình,35,Nữ,Kỹ sư,16,4,Không quan trọng,"['An ninh tốt', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 23.178729, 'Longitude': 104.375551}",Sơn Tây,34,3
+Hà Nội,27,Nữ,Phục vụ,12,3,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 11.929039, 'Longitude': 104.936085}",Thanh Xuân,38,2
+Điện Biên,28,Nam,Nhân viên văn phòng,7,3,Không quan trọng,"['Bếp', 'An ninh tốt']","{'Latitude': 13.761719, 'Longitude': 106.099584}",Thanh Xuân,18,3
+Sơn La,23,Nữ,Kỹ sư,6,1,Không quan trọng,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 16.584478, 'Longitude': 104.292228}",Thường Tín,39,3
+Cao Bằng,21,Nam,Sinh viên,4,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 16.98227, 'Longitude': 104.420762}",Hoài Đức,29,3
+Bắc Kạn,29,Nữ,Phục vụ,16,5,Thích yên tĩnh,"['Máy lạnh', 'An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 16.630788, 'Longitude': 103.205206}",Sóc Sơn,16,1
+Quảng Ninh,27,Nữ,Kỹ sư,20,3,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh']","{'Latitude': 13.348266, 'Longitude': 107.145745}",Thanh Trì,38,2
+Phú Thọ,24,Nam,Freelancer,14,4,Không quan trọng,"['Máy lạnh', 'Bếp', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 17.001656, 'Longitude': 106.147753}",Thanh Oai,31,3
+Hải Phòng,24,Nữ,Nhân viên văn phòng,10,5,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe', 'Bếp']","{'Latitude': 10.698046, 'Longitude': 104.920444}",Gia Lâm,37,2
+Hà Nội,34,Nữ,Kỹ sư,8,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 18.981866, 'Longitude': 106.356119}",Thạch Thất,10,4
+Thái Bình,31,Nam,Kỹ sư,15,3,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 19.994306, 'Longitude': 102.585513}",Hai Bà Trưng,16,4
+Bắc Giang,35,Nam,Freelancer,13,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 14.17285, 'Longitude': 102.412176}",Hai Bà Trưng,16,1
+Ninh Bình,26,Nữ,Freelancer,8,3,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 21.797241, 'Longitude': 108.804965}",Nam Từ Liêm,13,3
+Hà Nam,25,Nữ,Freelancer,15,4,Không quan trọng,"['An ninh tốt', 'Bếp']","{'Latitude': 23.371702, 'Longitude': 107.767646}",Nam Từ Liêm,15,1
+Quảng Ninh,23,Nam,Freelancer,15,4,Không quan trọng,"['Nội thất sẵn', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 14.114289, 'Longitude': 107.196956}",Hà Đông,46,2
+Hà Nam,27,Nữ,Freelancer,18,4,Không quan trọng,"['An ninh tốt', 'Bếp', 'Chỗ để xe']","{'Latitude': 21.420018, 'Longitude': 109.022274}",Hai Bà Trưng,10,1
+Hải Dương,18,Nữ,Sinh viên,4,4,Thích yên tĩnh,"['Bếp', 'Máy lạnh', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 12.168772, 'Longitude': 106.80219}",Hoàng Mai,28,3
+Nam Định,24,Nam,Kỹ sư,18,4,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 8.660127, 'Longitude': 104.659155}",Mỹ Đức,35,3
+Bắc Ninh,33,Nữ,Phục vụ,11,4,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp', 'An ninh tốt']","{'Latitude': 10.390339, 'Longitude': 105.634468}",Hoàn Kiếm,29,2
+Hà Giang,25,Nữ,Freelancer,7,4,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 22.184798, 'Longitude': 106.922501}",Hoài Đức,33,4
+Hà Nam,33,Nam,Freelancer,16,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Nội thất sẵn', 'Bếp']","{'Latitude': 22.722518, 'Longitude': 103.017955}",Ba Đình,37,4
+Yên Bái,23,Nữ,Freelancer,6,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 19.230119, 'Longitude': 107.07261}",Sơn Tây,38,3
+Hòa Bình,24,Nam,Phục vụ,19,2,Không quan trọng,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 17.119745, 'Longitude': 103.582329}",Ba Vì,31,1
+Hà Nam,18,Nữ,Sinh viên,8,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 19.979215, 'Longitude': 104.458153}",Hoài Đức,41,1
+Lai Châu,23,Nam,Nhân viên văn phòng,15,5,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 8.955136, 'Longitude': 102.57226}",Cầu Giấy,20,2
+Lạng Sơn,18,Nữ,Sinh viên,4,2,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 8.774216, 'Longitude': 104.049613}",Hoàn Kiếm,49,3
+Bắc Giang,35,Nữ,Nhân viên văn phòng,13,1,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 11.687932, 'Longitude': 105.860302}",Đống Đa,28,3
+Hải Phòng,22,Nam,Sinh viên,7,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 16.347045, 'Longitude': 103.397794}",Thanh Trì,45,1
+Tuyên Quang,28,Nam,Công nhân,18,3,Không quan trọng,"['Máy lạnh', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 16.033623, 'Longitude': 104.350827}",Long Biên,27,4
+Bắc Giang,30,Nữ,Freelancer,6,4,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 12.895956, 'Longitude': 108.860334}",Nam Từ Liêm,39,3
+Hưng Yên,34,Nam,Nhân viên văn phòng,5,3,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 12.05301, 'Longitude': 104.056099}",Hà Đông,44,3
+Hà Nội,23,Nữ,Freelancer,7,2,Không quan trọng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 9.201195, 'Longitude': 107.281615}",Thanh Trì,31,2
+Điện Biên,19,Nữ,Sinh viên,9,5,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 22.418716, 'Longitude': 107.431153}",Phú Xuyên,20,3
+Quảng Ninh,24,Nữ,Freelancer,18,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 9.763412, 'Longitude': 107.173636}",Đông Anh,15,2
+Hưng Yên,32,Nữ,Công nhân,10,2,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 10.23414, 'Longitude': 103.127566}",Phúc Thọ,49,2
+Lai Châu,22,Nữ,Sinh viên,0,3,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 16.221857, 'Longitude': 105.223318}",Nam Từ Liêm,24,1
+Phú Thọ,28,Nam,Kỹ sư,11,1,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 18.337924, 'Longitude': 109.025356}",Thường Tín,43,4
+Hà Nội,26,Nữ,Kỹ sư,11,3,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 22.852371, 'Longitude': 106.676359}",Hoàng Mai,13,2
+Bắc Giang,27,Nam,Công nhân,18,3,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 14.202346, 'Longitude': 104.307505}",Đông Anh,16,2
+Bắc Giang,25,Nữ,Kỹ sư,19,1,Thích yên tĩnh,"['Bếp', 'Máy lạnh', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 14.214947, 'Longitude': 105.559387}",Sóc Sơn,43,3
+Lào Cai,19,Nữ,Sinh viên,8,1,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 22.308224, 'Longitude': 104.338047}",Phúc Thọ,29,3
+Hải Phòng,34,Nữ,Kỹ sư,17,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 15.615586, 'Longitude': 109.093549}",Ba Đình,10,4
+Điện Biên,26,Nữ,Nhân viên văn phòng,13,5,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 15.566726, 'Longitude': 104.556241}",Long Biên,27,3
+Hòa Bình,32,Nam,Nhân viên văn phòng,18,5,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 18.224654, 'Longitude': 107.092814}",Hoàn Kiếm,33,4
+Yên Bái,26,Nữ,Nhân viên văn phòng,18,5,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 16.585546, 'Longitude': 108.996736}",Bắc Từ Liêm,46,1
+Hải Dương,22,Nam,Sinh viên,9,1,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 18.891776, 'Longitude': 104.939963}",Cầu Giấy,16,1
+Bắc Ninh,25,Nam,Freelancer,17,5,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn', 'Bếp']","{'Latitude': 21.104172, 'Longitude': 102.303574}",Phúc Thọ,18,1
+Hà Nội,29,Nam,Phục vụ,18,3,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 13.813366, 'Longitude': 105.182406}",Hoàn Kiếm,26,2
+Hải Phòng,32,Nam,Nhân viên văn phòng,12,1,Không quan trọng,['Bếp'],"{'Latitude': 19.663096, 'Longitude': 109.306733}",Hà Đông,26,3
+Lạng Sơn,25,Nữ,Kỹ sư,19,2,Không quan trọng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 14.272404, 'Longitude': 108.381557}",Gia Lâm,47,2
+Cao Bằng,29,Nữ,Công nhân,16,1,Nuôi thú cưng,['Bếp'],"{'Latitude': 13.671773, 'Longitude': 103.800933}",Ba Vì,32,4
+Nam Định,23,Nam,Nhân viên văn phòng,20,1,Thích yên tĩnh,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 15.549423, 'Longitude': 102.55412}",Thường Tín,32,1
+Bắc Ninh,30,Nam,Phục vụ,15,5,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 17.099497, 'Longitude': 108.352335}",Sóc Sơn,49,3
+Hòa Bình,34,Nữ,Nhân viên văn phòng,16,4,Nuôi thú cưng,"['Chỗ để xe', 'Bếp', 'Máy lạnh']","{'Latitude': 9.177358, 'Longitude': 102.636802}",Nam Từ Liêm,26,4
+Quảng Ninh,27,Nữ,Công nhân,16,3,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 15.867803, 'Longitude': 107.833006}",Mỹ Đức,41,2
+Lào Cai,21,Nam,Sinh viên,0,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 22.220565, 'Longitude': 107.894052}",Bắc Từ Liêm,44,4
+Thái Nguyên,25,Nữ,Nhân viên văn phòng,17,3,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 15.860694, 'Longitude': 109.424209}",Thanh Oai,23,2
+Hưng Yên,34,Nam,Nhân viên văn phòng,16,2,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp']","{'Latitude': 22.656314, 'Longitude': 106.766909}",Phúc Thọ,33,4
+Sơn La,26,Nữ,Freelancer,9,4,Không quan trọng,['Bếp'],"{'Latitude': 19.405107, 'Longitude': 107.584241}",Đống Đa,42,1
+Thái Bình,30,Nữ,Phục vụ,16,4,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 10.12008, 'Longitude': 103.281927}",Gia Lâm,14,3
+Bắc Ninh,26,Nữ,Phục vụ,13,4,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp']","{'Latitude': 10.268342, 'Longitude': 107.077475}",Ứng Hòa,27,4
+Hải Dương,31,Nam,Phục vụ,18,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 15.137201, 'Longitude': 103.494211}",Tây Hồ,39,1
+Sơn La,25,Nam,Nhân viên văn phòng,16,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 21.180665, 'Longitude': 104.754424}",Bắc Từ Liêm,48,3
+Hòa Bình,35,Nam,Phục vụ,6,4,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 21.067028, 'Longitude': 108.118009}",Phú Xuyên,12,4
+Lai Châu,31,Nam,Freelancer,10,2,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 20.036321, 'Longitude': 102.259573}",Hoàn Kiếm,17,4
+Hà Nam,30,Nam,Kỹ sư,11,5,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 10.051032, 'Longitude': 103.176917}",Hoài Đức,30,3
+Hà Nội,23,Nữ,Công nhân,16,3,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 19.818593, 'Longitude': 105.640456}",Hoàng Mai,35,3
+Hải Phòng,26,Nam,Freelancer,7,4,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 22.543697, 'Longitude': 109.415468}",Ba Đình,44,4
+Tuyên Quang,26,Nữ,Kỹ sư,10,4,Không quan trọng,"['Bếp', 'Máy lạnh']","{'Latitude': 10.69519, 'Longitude': 105.744304}",Đống Đa,30,1
+Thái Bình,29,Nam,Kỹ sư,15,5,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 10.080921, 'Longitude': 105.31615}",Hai Bà Trưng,27,1
+Hải Phòng,25,Nữ,Công nhân,10,1,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 14.109389, 'Longitude': 105.624356}",Đống Đa,41,1
+Tuyên Quang,29,Nam,Kỹ sư,9,5,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 20.476371, 'Longitude': 104.955538}",Gia Lâm,32,1
+Hải Phòng,31,Nam,Freelancer,14,3,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 13.300299, 'Longitude': 106.985346}",Đông Anh,44,3
+Hà Giang,23,Nữ,Công nhân,7,2,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 13.899127, 'Longitude': 104.885665}",Tây Hồ,39,1
+Nam Định,29,Nam,Nhân viên văn phòng,19,4,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Bếp', 'Máy lạnh']","{'Latitude': 15.986091, 'Longitude': 106.486773}",Hoàng Mai,13,1
+Điện Biên,25,Nữ,Công nhân,5,2,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Bếp']","{'Latitude': 13.393625, 'Longitude': 105.837341}",Phú Xuyên,40,3
+Bắc Giang,35,Nam,Kỹ sư,13,4,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 19.567924, 'Longitude': 104.150056}",Ba Vì,33,3
+Lào Cai,34,Nữ,Freelancer,20,1,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 9.866846, 'Longitude': 107.348895}",Ứng Hòa,22,4
+Thái Nguyên,31,Nam,Phục vụ,8,5,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn', 'Bếp']","{'Latitude': 10.764489, 'Longitude': 107.298656}",Ba Đình,31,4
+Thái Bình,22,Nữ,Sinh viên,0,5,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 16.672307, 'Longitude': 104.868066}",Mỹ Đức,50,3
+Vĩnh Phúc,25,Nam,Kỹ sư,5,1,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 23.022877, 'Longitude': 102.41525}",Hoài Đức,11,2
+Hải Phòng,31,Nữ,Nhân viên văn phòng,15,3,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 18.844962, 'Longitude': 102.516631}",Long Biên,45,3
+Thái Nguyên,26,Nữ,Kỹ sư,14,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 11.807378, 'Longitude': 103.603378}",Ba Vì,44,4
+Hòa Bình,32,Nữ,Kỹ sư,15,5,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 9.974238, 'Longitude': 102.23654}",Hoài Đức,39,3
+Hà Giang,25,Nữ,Công nhân,8,2,Nuôi thú cưng,['Bếp'],"{'Latitude': 10.632881, 'Longitude': 105.049416}",Thanh Xuân,10,3
+Yên Bái,24,Nữ,Phục vụ,11,4,Nuôi thú cưng,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 23.204947, 'Longitude': 106.467821}",Nam Từ Liêm,29,2
+Nam Định,26,Nam,Freelancer,8,5,Không quan trọng,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 21.403745, 'Longitude': 107.516112}",Hoàn Kiếm,34,4
+Bắc Ninh,26,Nam,Kỹ sư,8,4,Không quan trọng,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 10.817474, 'Longitude': 106.072192}",Ba Vì,25,4
+Hà Nam,30,Nữ,Nhân viên văn phòng,17,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 14.420846, 'Longitude': 109.061756}",Sơn Tây,19,3
+Ninh Bình,24,Nữ,Công nhân,13,4,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.255428, 'Longitude': 106.561497}",Hoàng Mai,15,3
+Thái Nguyên,32,Nam,Kỹ sư,13,5,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 12.182483, 'Longitude': 104.904931}",Thường Tín,43,4
+Sơn La,23,Nam,Phục vụ,7,3,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'Chỗ để xe']","{'Latitude': 13.233927, 'Longitude': 103.822572}",Nam Từ Liêm,30,1
+Hưng Yên,25,Nữ,Freelancer,9,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 13.374986, 'Longitude': 107.097684}",Sơn Tây,35,1
+Hưng Yên,29,Nữ,Kỹ sư,14,2,Thích yên tĩnh,"['Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 16.144769, 'Longitude': 107.997789}",Hoài Đức,47,2
+Lạng Sơn,25,Nữ,Kỹ sư,9,4,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 14.647427, 'Longitude': 106.867855}",Tây Hồ,28,2
+Yên Bái,23,Nam,Kỹ sư,13,1,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 13.372097, 'Longitude': 105.771482}",Gia Lâm,10,1
+Bắc Ninh,35,Nữ,Công nhân,16,3,Thích yên tĩnh,"['Máy lạnh', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 15.578715, 'Longitude': 106.191152}",Phú Xuyên,16,2
+Yên Bái,32,Nữ,Freelancer,20,1,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 15.554635, 'Longitude': 105.92748}",Sóc Sơn,38,1
+Thái Nguyên,31,Nam,Freelancer,6,2,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 17.90833, 'Longitude': 105.722535}",Đông Anh,46,4
+Hải Dương,21,Nam,Sinh viên,0,4,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 10.314787, 'Longitude': 107.906524}",Nam Từ Liêm,41,3
+Lào Cai,33,Nam,Nhân viên văn phòng,9,5,Không quan trọng,"['An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 22.319989, 'Longitude': 105.317343}",Hoàn Kiếm,27,2
+Quảng Ninh,30,Nam,Phục vụ,10,4,Thích yên tĩnh,['Bếp'],"{'Latitude': 13.815724, 'Longitude': 105.330934}",Ba Vì,31,2
+Bắc Giang,31,Nữ,Freelancer,7,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.772507, 'Longitude': 104.594296}",Mỹ Đức,12,3
+Hà Nội,30,Nữ,Kỹ sư,19,2,Thích yên tĩnh,['Bếp'],"{'Latitude': 19.490849, 'Longitude': 109.112539}",Tây Hồ,19,3
+Phú Thọ,24,Nam,Nhân viên văn phòng,8,1,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt']","{'Latitude': 15.74917, 'Longitude': 108.492517}",Hoàn Kiếm,25,4
+Hà Nội,34,Nữ,Freelancer,20,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 11.982425, 'Longitude': 103.573464}",Chương Mỹ,49,3
+Sơn La,32,Nữ,Freelancer,10,2,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 11.580936, 'Longitude': 106.204076}",Mỹ Đức,23,1
+Lào Cai,26,Nam,Nhân viên văn phòng,11,1,Không quan trọng,['Chỗ để xe'],"{'Latitude': 10.509731, 'Longitude': 108.991478}",Tây Hồ,43,2
+Hà Giang,28,Nam,Nhân viên văn phòng,10,3,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 8.241088, 'Longitude': 104.519443}",Hai Bà Trưng,22,4
+Bắc Ninh,25,Nam,Phục vụ,16,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.376996, 'Longitude': 105.153987}",Phúc Thọ,15,2
+Cao Bằng,22,Nữ,Sinh viên,9,3,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 20.198273, 'Longitude': 103.275453}",Thanh Xuân,48,4
+Hà Nội,33,Nam,Phục vụ,8,4,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 19.50617, 'Longitude': 102.52406}",Ba Vì,16,3
+Bắc Kạn,29,Nam,Nhân viên văn phòng,8,3,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 19.598775, 'Longitude': 108.429286}",Sóc Sơn,11,1
+Nam Định,32,Nữ,Freelancer,15,4,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 8.394255, 'Longitude': 102.96275}",Gia Lâm,26,4
+Hà Nam,31,Nữ,Kỹ sư,8,2,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 21.230131, 'Longitude': 104.15514}",Sơn Tây,31,4
+Sơn La,27,Nữ,Phục vụ,17,2,Không quan trọng,"['Bếp', 'Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 11.150271, 'Longitude': 105.603965}",Thạch Thất,49,2
+Bắc Ninh,35,Nữ,Nhân viên văn phòng,12,5,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 13.659203, 'Longitude': 105.422785}",Ứng Hòa,17,1
+Lạng Sơn,34,Nữ,Phục vụ,18,1,Không quan trọng,['Chỗ để xe'],"{'Latitude': 17.184265, 'Longitude': 108.685905}",Cầu Giấy,18,1
+Thái Bình,30,Nữ,Phục vụ,16,3,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 23.027057, 'Longitude': 107.000557}",Tây Hồ,24,3
+Hòa Bình,35,Nam,Kỹ sư,19,5,Nuôi thú cưng,"['Bếp', 'Máy lạnh']","{'Latitude': 21.998104, 'Longitude': 107.384667}",Phú Xuyên,50,3
+Bắc Giang,26,Nữ,Nhân viên văn phòng,12,5,Thích yên tĩnh,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 16.853981, 'Longitude': 108.579768}",Ba Vì,11,3
+Lạng Sơn,33,Nữ,Freelancer,20,2,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 14.030443, 'Longitude': 109.130786}",Tây Hồ,13,1
+Hải Dương,30,Nam,Công nhân,8,4,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 14.421184, 'Longitude': 106.495954}",Đống Đa,50,3
+Phú Thọ,28,Nữ,Phục vụ,6,2,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 23.380545, 'Longitude': 107.963698}",Thanh Trì,25,1
+Sơn La,26,Nữ,Freelancer,19,1,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 8.668405, 'Longitude': 107.595219}",Gia Lâm,49,1
+Lạng Sơn,35,Nữ,Nhân viên văn phòng,12,5,Không quan trọng,"['An ninh tốt', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 11.777512, 'Longitude': 107.574799}",Bắc Từ Liêm,17,1
+Bắc Giang,34,Nữ,Nhân viên văn phòng,15,2,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 21.842989, 'Longitude': 107.199475}",Hà Đông,12,3
+Quảng Ninh,33,Nam,Công nhân,5,2,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 10.521065, 'Longitude': 108.686986}",Mỹ Đức,44,3
+Bắc Giang,29,Nữ,Công nhân,6,5,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 17.224781, 'Longitude': 107.099209}",Quốc Oai,49,3
+Bắc Kạn,34,Nữ,Freelancer,12,1,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 21.810116, 'Longitude': 104.834305}",Quốc Oai,43,2
+Thái Bình,31,Nam,Freelancer,20,2,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Bếp']","{'Latitude': 20.392586, 'Longitude': 108.995708}",Hoài Đức,30,1
+Lai Châu,21,Nữ,Sinh viên,5,3,Không quan trọng,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 15.082552, 'Longitude': 102.922699}",Thanh Trì,14,4
+Hải Phòng,33,Nam,Freelancer,12,3,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 11.960858, 'Longitude': 102.984889}",Đan Phượng,45,4
+Quảng Ninh,20,Nam,Sinh viên,3,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 14.618215, 'Longitude': 104.262226}",Thanh Oai,21,4
+Hưng Yên,23,Nữ,Nhân viên văn phòng,19,3,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 19.201829, 'Longitude': 108.700831}",Thường Tín,25,3
+Ninh Bình,29,Nam,Nhân viên văn phòng,15,5,Không quan trọng,"['Bếp', 'Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 9.484265, 'Longitude': 104.236372}",Hà Đông,28,2
+Bắc Ninh,27,Nữ,Nhân viên văn phòng,11,2,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 12.789843, 'Longitude': 104.328328}",Tây Hồ,41,4
+Hà Giang,29,Nam,Nhân viên văn phòng,20,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 22.296721, 'Longitude': 107.795651}",Mỹ Đức,45,2
+Lạng Sơn,32,Nam,Công nhân,8,1,Thích yên tĩnh,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 21.119032, 'Longitude': 103.548312}",Sơn Tây,45,4
+Lào Cai,19,Nữ,Sinh viên,10,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 9.433013, 'Longitude': 102.727594}",Hoàng Mai,14,3
+Hòa Bình,32,Nữ,Nhân viên văn phòng,12,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 9.026991, 'Longitude': 108.950724}",Chương Mỹ,45,1
+Lạng Sơn,32,Nam,Nhân viên văn phòng,5,1,Thích yên tĩnh,['Bếp'],"{'Latitude': 18.450396, 'Longitude': 108.254908}",Hai Bà Trưng,45,2
+Hải Phòng,23,Nữ,Phục vụ,12,4,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 9.335382, 'Longitude': 104.519141}",Thạch Thất,27,2
+Nam Định,30,Nữ,Công nhân,16,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 14.044944, 'Longitude': 108.157344}",Hoàng Mai,33,4
+Thái Nguyên,26,Nam,Công nhân,16,4,Không quan trọng,"['Bếp', 'Chỗ để xe', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 22.332002, 'Longitude': 106.936379}",Hà Đông,45,4
+Nam Định,24,Nam,Freelancer,9,2,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 11.27964, 'Longitude': 104.519789}",Thạch Thất,20,2
+Nam Định,28,Nam,Phục vụ,13,5,Không quan trọng,['Chỗ để xe'],"{'Latitude': 17.915761, 'Longitude': 104.928807}",Ba Đình,28,1
+Nam Định,28,Nữ,Công nhân,16,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 12.579459, 'Longitude': 107.527068}",Thạch Thất,44,2
+Điện Biên,34,Nam,Phục vụ,11,2,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 21.048526, 'Longitude': 105.42746}",Ba Đình,20,4
+Ninh Bình,30,Nữ,Công nhân,10,4,Thích yên tĩnh,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 8.285361, 'Longitude': 105.89824}",Tây Hồ,23,2
+Hải Phòng,24,Nam,Công nhân,6,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 9.042909, 'Longitude': 108.109988}",Quốc Oai,23,4
+Bắc Giang,30,Nữ,Nhân viên văn phòng,19,3,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 11.719313, 'Longitude': 102.554784}",Long Biên,46,2
+Điện Biên,31,Nữ,Kỹ sư,13,2,Thích yên tĩnh,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 13.76014, 'Longitude': 102.566866}",Quốc Oai,45,4
+Hưng Yên,23,Nam,Freelancer,11,2,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 22.453669, 'Longitude': 107.825015}",Chương Mỹ,18,4
+Lai Châu,32,Nữ,Phục vụ,15,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 11.660591, 'Longitude': 104.362389}",Chương Mỹ,27,2
+Quảng Ninh,18,Nữ,Sinh viên,9,3,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.358691, 'Longitude': 106.1888}",Quốc Oai,32,4
+Hưng Yên,24,Nam,Phục vụ,7,4,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 13.733706, 'Longitude': 107.954627}",Ứng Hòa,49,3
+Hà Nam,30,Nữ,Freelancer,10,2,Nuôi thú cưng,"['Bếp', 'An ninh tốt', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 9.794052, 'Longitude': 107.25211}",Bắc Từ Liêm,33,4
+Bắc Giang,29,Nam,Phục vụ,19,1,Không quan trọng,['Máy lạnh'],"{'Latitude': 13.098468, 'Longitude': 107.422623}",Phú Xuyên,38,3
+Hòa Bình,25,Nữ,Công nhân,19,5,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 21.037232, 'Longitude': 102.351254}",Ba Đình,50,2
+Lào Cai,33,Nữ,Nhân viên văn phòng,13,1,Không quan trọng,['Bếp'],"{'Latitude': 9.04804, 'Longitude': 106.006675}",Mỹ Đức,48,1
+Sơn La,26,Nam,Nhân viên văn phòng,6,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 18.218906, 'Longitude': 103.879366}",Phú Xuyên,24,3
+Điện Biên,31,Nam,Kỹ sư,15,2,Nuôi thú cưng,['Bếp'],"{'Latitude': 12.165347, 'Longitude': 107.191385}",Tây Hồ,13,3
+Lai Châu,25,Nữ,Kỹ sư,20,2,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh', 'Bếp']","{'Latitude': 13.153617, 'Longitude': 106.223228}",Đan Phượng,43,1
+Ninh Bình,28,Nam,Công nhân,19,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 20.633753, 'Longitude': 107.758729}",Tây Hồ,43,1
+Quảng Ninh,35,Nữ,Kỹ sư,7,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 9.415287, 'Longitude': 106.99963}",Hoàn Kiếm,39,4
+Ninh Bình,34,Nữ,Freelancer,17,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 11.24162, 'Longitude': 105.822695}",Phúc Thọ,31,3
+Điện Biên,33,Nam,Freelancer,16,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 10.067148, 'Longitude': 104.908605}",Đống Đa,22,2
+Hà Giang,30,Nữ,Freelancer,20,4,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 22.519678, 'Longitude': 103.700572}",Hoài Đức,15,4
+Thái Bình,25,Nữ,Nhân viên văn phòng,16,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 17.443256, 'Longitude': 103.950184}",Quốc Oai,12,1
+Lào Cai,35,Nữ,Phục vụ,12,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 19.483548, 'Longitude': 105.65429}",Bắc Từ Liêm,36,1
+Hà Nam,25,Nữ,Freelancer,14,1,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 13.523728, 'Longitude': 102.525217}",Thanh Xuân,11,1
+Hưng Yên,28,Nữ,Nhân viên văn phòng,17,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 22.677399, 'Longitude': 108.193723}",Sóc Sơn,27,4
+Lạng Sơn,23,Nam,Phục vụ,11,3,Không quan trọng,"['Chỗ để xe', 'Máy lạnh', 'Bếp', 'An ninh tốt']","{'Latitude': 13.720717, 'Longitude': 106.907603}",Mỹ Đức,35,2
+Sơn La,31,Nam,Công nhân,16,4,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 18.724698, 'Longitude': 102.838553}",Thạch Thất,12,3
+Thái Bình,34,Nam,Nhân viên văn phòng,13,1,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 17.272624, 'Longitude': 106.04574}",Đống Đa,33,3
+Tuyên Quang,30,Nam,Kỹ sư,11,1,Không quan trọng,"['Bếp', 'Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 17.675802, 'Longitude': 103.418797}",Thanh Xuân,21,1
+Hải Dương,25,Nữ,Nhân viên văn phòng,13,3,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 15.761618, 'Longitude': 105.865717}",Ba Vì,50,1
+Tuyên Quang,29,Nữ,Nhân viên văn phòng,18,3,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 19.905493, 'Longitude': 103.3015}",Thường Tín,21,4
+Hà Giang,19,Nam,Sinh viên,8,4,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 8.39238, 'Longitude': 108.83261}",Đống Đa,46,4
+Tuyên Quang,22,Nam,Sinh viên,5,1,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Bếp', 'Chỗ để xe']","{'Latitude': 12.455818, 'Longitude': 103.1597}",Quốc Oai,17,2
+Hà Giang,35,Nữ,Phục vụ,13,3,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe', 'Bếp']","{'Latitude': 22.890915, 'Longitude': 106.227969}",Hoàn Kiếm,28,4
+Hà Giang,29,Nữ,Nhân viên văn phòng,10,2,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp']","{'Latitude': 16.936087, 'Longitude': 108.240246}",Đan Phượng,21,1
+Yên Bái,34,Nam,Công nhân,10,5,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Bếp', 'Chỗ để xe']","{'Latitude': 12.011918, 'Longitude': 104.12274}",Hoàn Kiếm,47,2
+Hải Dương,35,Nữ,Kỹ sư,15,4,Nuôi thú cưng,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 21.087445, 'Longitude': 109.379548}",Ba Vì,41,1
+Bắc Kạn,28,Nam,Công nhân,20,5,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 18.922835, 'Longitude': 105.881105}",Hoàng Mai,13,4
+Bắc Ninh,20,Nữ,Sinh viên,1,5,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 19.147117, 'Longitude': 109.227722}",Long Biên,14,2
+Tuyên Quang,26,Nữ,Kỹ sư,17,1,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 13.53811, 'Longitude': 102.339788}",Thanh Oai,45,4
+Lạng Sơn,21,Nữ,Sinh viên,1,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 16.395706, 'Longitude': 107.675771}",Chương Mỹ,46,1
+Bắc Giang,30,Nữ,Freelancer,7,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 13.357231, 'Longitude': 105.443014}",Đông Anh,20,1
+Cao Bằng,33,Nữ,Phục vụ,9,3,Không quan trọng,"['Máy lạnh', 'Bếp', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 8.357449, 'Longitude': 103.487625}",Hai Bà Trưng,19,1
+Tuyên Quang,24,Nữ,Công nhân,6,5,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 19.672898, 'Longitude': 108.186164}",Phú Xuyên,10,2
+Phú Thọ,32,Nữ,Nhân viên văn phòng,18,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 9.065108, 'Longitude': 108.537313}",Gia Lâm,40,1
+Cao Bằng,32,Nam,Công nhân,6,1,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 18.112065, 'Longitude': 108.217542}",Đống Đa,17,3
+Hòa Bình,32,Nam,Công nhân,10,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 12.234686, 'Longitude': 103.540512}",Ba Đình,39,1
+Hà Nội,32,Nữ,Nhân viên văn phòng,11,1,Không quan trọng,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 19.924292, 'Longitude': 104.065632}",Thanh Trì,47,4
+Thái Bình,26,Nam,Kỹ sư,6,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 12.170125, 'Longitude': 106.163515}",Thanh Oai,26,1
+Lạng Sơn,34,Nữ,Freelancer,10,3,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 11.508472, 'Longitude': 104.200963}",Long Biên,26,2
+Hưng Yên,31,Nữ,Freelancer,10,4,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 12.135965, 'Longitude': 107.246328}",Hoài Đức,24,2
+Hà Nội,26,Nam,Nhân viên văn phòng,14,5,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 16.863237, 'Longitude': 105.46419}",Tây Hồ,21,4
+Thái Bình,18,Nam,Sinh viên,1,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 15.192132, 'Longitude': 108.967715}",Sóc Sơn,20,4
+Hòa Bình,34,Nữ,Freelancer,11,3,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 14.782719, 'Longitude': 105.276916}",Ba Đình,18,4
+Lai Châu,32,Nữ,Công nhân,17,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 13.815232, 'Longitude': 108.666204}",Thường Tín,27,2
+Lai Châu,31,Nữ,Nhân viên văn phòng,5,4,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 12.929952, 'Longitude': 103.488889}",Chương Mỹ,41,3
+Hà Nam,24,Nam,Freelancer,12,4,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 8.819855, 'Longitude': 103.813164}",Thanh Trì,30,4
+Cao Bằng,32,Nam,Công nhân,13,5,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 15.456035, 'Longitude': 108.609778}",Sơn Tây,10,3
+Thái Nguyên,22,Nữ,Sinh viên,2,2,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 22.915255, 'Longitude': 105.722183}",Gia Lâm,18,1
+Sơn La,29,Nam,Nhân viên văn phòng,10,1,Không quan trọng,"['Máy lạnh', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 17.657794, 'Longitude': 105.789551}",Thanh Trì,10,3
+Bắc Kạn,30,Nữ,Phục vụ,7,1,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 21.232191, 'Longitude': 108.265405}",Hoàng Mai,46,3
+Hà Nội,20,Nam,Sinh viên,0,1,Thích yên tĩnh,"['Bếp', 'Chỗ để xe']","{'Latitude': 21.034644, 'Longitude': 106.29397}",Phú Xuyên,35,1
+Phú Thọ,25,Nữ,Freelancer,10,2,Không quan trọng,"['Bếp', 'An ninh tốt']","{'Latitude': 11.816642, 'Longitude': 102.488456}",Thanh Xuân,26,4
+Tuyên Quang,33,Nam,Phục vụ,14,3,Không quan trọng,"['Bếp', 'An ninh tốt', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 12.65901, 'Longitude': 107.103103}",Thanh Trì,43,2
+Lào Cai,21,Nam,Sinh viên,7,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 17.524083, 'Longitude': 109.024716}",Phúc Thọ,40,1
+Hải Phòng,26,Nam,Công nhân,5,3,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 17.451728, 'Longitude': 102.706024}",Mỹ Đức,22,2
+Lào Cai,27,Nữ,Nhân viên văn phòng,14,4,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 15.702935, 'Longitude': 107.492853}",Thạch Thất,31,3
+Bắc Kạn,19,Nữ,Sinh viên,3,5,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 8.21604, 'Longitude': 109.312552}",Thường Tín,23,2
+Yên Bái,23,Nữ,Phục vụ,19,1,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 19.026876, 'Longitude': 105.246145}",Hai Bà Trưng,28,2
+Sơn La,23,Nữ,Freelancer,11,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 17.10625, 'Longitude': 108.18664}",Đống Đa,27,3
+Ninh Bình,18,Nữ,Sinh viên,0,4,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 21.623059, 'Longitude': 102.609302}",Đan Phượng,10,2
+Hải Phòng,28,Nam,Phục vụ,19,5,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 12.135015, 'Longitude': 103.123274}",Thạch Thất,16,3
+Hà Nội,29,Nữ,Công nhân,12,4,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 17.148015, 'Longitude': 104.659631}",Hoàng Mai,44,2
+Vĩnh Phúc,28,Nữ,Nhân viên văn phòng,9,5,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 20.043656, 'Longitude': 104.582734}",Đống Đa,50,3
+Thái Bình,26,Nữ,Freelancer,8,5,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 22.130482, 'Longitude': 105.017743}",Thạch Thất,35,1
+Cao Bằng,28,Nữ,Nhân viên văn phòng,13,5,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 21.532823, 'Longitude': 103.766644}",Thanh Trì,18,1
+Lào Cai,27,Nam,Nhân viên văn phòng,18,3,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 15.837137, 'Longitude': 108.712817}",Ứng Hòa,35,2
+Nam Định,20,Nam,Sinh viên,0,4,Nuôi thú cưng,"['Bếp', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 12.489544, 'Longitude': 104.20747}",Hoàn Kiếm,12,4
+Hà Giang,33,Nam,Công nhân,14,3,Không quan trọng,['Chỗ để xe'],"{'Latitude': 18.092484, 'Longitude': 107.000549}",Nam Từ Liêm,48,4
+Hải Phòng,29,Nữ,Công nhân,20,5,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 23.008725, 'Longitude': 109.131838}",Bắc Từ Liêm,16,4
+Phú Thọ,23,Nam,Công nhân,11,2,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 12.189258, 'Longitude': 109.043681}",Đống Đa,44,4
+Hà Nam,21,Nữ,Sinh viên,2,4,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 10.576966, 'Longitude': 108.056459}",Thạch Thất,17,3
+Yên Bái,22,Nữ,Sinh viên,10,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.974105, 'Longitude': 108.622856}",Hà Đông,38,1
+Bắc Giang,31,Nam,Freelancer,16,1,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 17.973302, 'Longitude': 103.198678}",Chương Mỹ,20,2
+Tuyên Quang,33,Nữ,Kỹ sư,7,1,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 18.152851, 'Longitude': 109.377528}",Phú Xuyên,29,2
+Bắc Kạn,27,Nữ,Freelancer,10,1,Thích yên tĩnh,['Bếp'],"{'Latitude': 16.139205, 'Longitude': 105.719496}",Phúc Thọ,16,2
+Hà Nam,35,Nữ,Kỹ sư,13,1,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 13.933555, 'Longitude': 104.326054}",Phúc Thọ,39,1
+Yên Bái,34,Nam,Kỹ sư,13,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn']","{'Latitude': 9.242995, 'Longitude': 102.761928}",Ba Vì,36,2
+Yên Bái,32,Nam,Freelancer,14,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 20.870626, 'Longitude': 108.607196}",Hà Đông,22,4
+Nam Định,35,Nữ,Kỹ sư,10,2,Không quan trọng,"['Chỗ để xe', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 12.01487, 'Longitude': 106.255672}",Thạch Thất,13,2
+Hòa Bình,19,Nữ,Sinh viên,4,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 16.752832, 'Longitude': 105.408117}",Gia Lâm,42,1
+Hà Nam,20,Nam,Sinh viên,9,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 9.555712, 'Longitude': 104.076835}",Long Biên,34,4
+Hải Dương,33,Nam,Freelancer,15,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 12.362308, 'Longitude': 104.204497}",Thường Tín,35,4
+Ninh Bình,20,Nam,Sinh viên,3,5,Nuôi thú cưng,['Bếp'],"{'Latitude': 13.496942, 'Longitude': 107.314951}",Ba Vì,15,4
+Sơn La,32,Nam,Phục vụ,16,4,Không quan trọng,"['Bếp', 'Máy lạnh']","{'Latitude': 19.515888, 'Longitude': 109.451475}",Bắc Từ Liêm,29,3
+Cao Bằng,30,Nam,Freelancer,16,1,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 18.516721, 'Longitude': 108.069457}",Nam Từ Liêm,29,1
+Lai Châu,33,Nam,Kỹ sư,11,5,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Nội thất sẵn']","{'Latitude': 16.938978, 'Longitude': 109.183924}",Ba Đình,12,4
+Hà Nội,26,Nữ,Nhân viên văn phòng,5,3,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 19.607503, 'Longitude': 108.240431}",Mỹ Đức,20,3
+Hà Nội,32,Nữ,Kỹ sư,6,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 13.714825, 'Longitude': 102.795928}",Đan Phượng,48,3
+Nam Định,29,Nam,Công nhân,17,1,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 16.379551, 'Longitude': 108.677246}",Hoàn Kiếm,25,1
+Điện Biên,30,Nam,Freelancer,16,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 15.973879, 'Longitude': 108.475696}",Thanh Trì,46,4
+Thái Nguyên,35,Nam,Freelancer,5,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 11.788441, 'Longitude': 106.601311}",Thanh Xuân,25,1
+Hưng Yên,28,Nam,Nhân viên văn phòng,15,2,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 15.648878, 'Longitude': 103.595199}",Thường Tín,12,1
+Bắc Kạn,24,Nam,Công nhân,6,3,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 9.499036, 'Longitude': 103.413508}",Ứng Hòa,49,1
+Hưng Yên,30,Nữ,Freelancer,7,5,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 11.416034, 'Longitude': 105.028427}",Mỹ Đức,40,3
+Ninh Bình,27,Nữ,Freelancer,6,4,Nuôi thú cưng,"['Bếp', 'Chỗ để xe']","{'Latitude': 22.998279, 'Longitude': 106.704823}",Bắc Từ Liêm,24,3
+Hà Nội,28,Nữ,Phục vụ,20,3,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 9.562616, 'Longitude': 102.541382}",Hoàn Kiếm,19,3
+Bắc Ninh,18,Nữ,Sinh viên,10,3,Không quan trọng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 21.981826, 'Longitude': 103.84897}",Thường Tín,48,1
+Thái Nguyên,24,Nam,Phục vụ,15,3,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 23.064702, 'Longitude': 105.360755}",Hoàn Kiếm,14,2
+Phú Thọ,19,Nữ,Sinh viên,6,5,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 16.507242, 'Longitude': 103.015793}",Đông Anh,19,4
+Nam Định,33,Nữ,Phục vụ,20,4,Không quan trọng,['Bếp'],"{'Latitude': 13.205823, 'Longitude': 103.234052}",Long Biên,46,3
+Cao Bằng,32,Nam,Freelancer,14,1,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 16.961463, 'Longitude': 104.726473}",Hà Đông,34,3
+Hưng Yên,34,Nữ,Nhân viên văn phòng,7,3,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 9.727316, 'Longitude': 104.300499}",Phú Xuyên,37,2
+Ninh Bình,34,Nữ,Nhân viên văn phòng,17,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 16.887886, 'Longitude': 107.623418}",Phú Xuyên,47,1
+Thái Nguyên,23,Nữ,Phục vụ,15,2,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'Bếp', 'Máy lạnh']","{'Latitude': 10.062021, 'Longitude': 104.681793}",Thanh Trì,38,1
+Ninh Bình,30,Nữ,Freelancer,6,3,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 9.799022, 'Longitude': 108.111986}",Quốc Oai,11,1
+Bắc Kạn,20,Nữ,Sinh viên,2,2,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 22.744192, 'Longitude': 108.84946}",Thạch Thất,33,3
+Điện Biên,26,Nam,Nhân viên văn phòng,16,2,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 11.272724, 'Longitude': 107.981724}",Đống Đa,44,2
+Điện Biên,30,Nữ,Freelancer,15,1,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 10.713174, 'Longitude': 105.554756}",Đan Phượng,12,2
+Hà Giang,25,Nam,Phục vụ,10,5,Nuôi thú cưng,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 9.588466, 'Longitude': 108.837152}",Quốc Oai,17,1
+Phú Thọ,31,Nữ,Nhân viên văn phòng,6,3,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 14.742628, 'Longitude': 105.634561}",Ba Vì,42,1
+Lai Châu,30,Nam,Công nhân,10,4,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 19.735421, 'Longitude': 106.175302}",Phúc Thọ,28,2
+Ninh Bình,27,Nữ,Freelancer,16,1,Không quan trọng,"['Nội thất sẵn', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 16.889823, 'Longitude': 105.371302}",Hoàng Mai,27,3
+Hải Dương,18,Nam,Sinh viên,3,3,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 16.44565, 'Longitude': 108.768866}",Gia Lâm,36,4
+Ninh Bình,35,Nam,Kỹ sư,18,2,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 15.472244, 'Longitude': 105.553168}",Long Biên,23,1
+Lai Châu,22,Nữ,Sinh viên,1,1,Thích yên tĩnh,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 19.657388, 'Longitude': 108.156887}",Thanh Trì,29,1
+Hải Dương,28,Nữ,Nhân viên văn phòng,17,5,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 13.315757, 'Longitude': 104.293698}",Đan Phượng,10,3
+Hà Giang,30,Nữ,Phục vụ,17,5,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 16.93395, 'Longitude': 108.605794}",Thường Tín,14,1
+Cao Bằng,32,Nam,Freelancer,14,3,Thích yên tĩnh,"['Bếp', 'Chỗ để xe']","{'Latitude': 15.971885, 'Longitude': 105.738767}",Nam Từ Liêm,21,1
+Thái Bình,30,Nữ,Phục vụ,19,1,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 9.233623, 'Longitude': 103.861224}",Thanh Oai,28,1
+Hà Nam,34,Nam,Công nhân,16,3,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 21.740354, 'Longitude': 107.204233}",Sơn Tây,22,3
+Bắc Ninh,24,Nam,Phục vụ,11,1,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 19.440995, 'Longitude': 105.080254}",Hoàn Kiếm,22,1
+Hải Dương,24,Nam,Kỹ sư,5,2,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 13.535286, 'Longitude': 107.922134}",Phú Xuyên,15,3
+Hải Dương,18,Nam,Sinh viên,5,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 16.515377, 'Longitude': 107.982263}",Mỹ Đức,28,2
+Thái Nguyên,24,Nam,Công nhân,17,3,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 11.826465, 'Longitude': 106.756492}",Thạch Thất,36,3
+Bắc Giang,18,Nam,Sinh viên,8,5,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 17.669576, 'Longitude': 106.996574}",Hà Đông,50,3
+Tuyên Quang,32,Nữ,Công nhân,19,2,Không quan trọng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 14.115005, 'Longitude': 109.328082}",Chương Mỹ,29,2
+Điện Biên,24,Nữ,Công nhân,7,5,Không quan trọng,['Bếp'],"{'Latitude': 22.592137, 'Longitude': 107.147387}",Phúc Thọ,49,2
+Thái Bình,21,Nữ,Sinh viên,0,2,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 8.667508, 'Longitude': 108.826073}",Chương Mỹ,29,1
+Hà Giang,24,Nữ,Nhân viên văn phòng,15,5,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'Bếp']","{'Latitude': 13.638508, 'Longitude': 107.850413}",Đống Đa,33,2
+Yên Bái,35,Nữ,Freelancer,17,5,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp', 'Máy lạnh']","{'Latitude': 14.137134, 'Longitude': 106.616151}",Ba Đình,31,3
+Thái Nguyên,28,Nam,Kỹ sư,5,1,Không quan trọng,"['Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 11.019833, 'Longitude': 103.494485}",Thanh Oai,19,1
+Lào Cai,29,Nữ,Phục vụ,11,2,Nuôi thú cưng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 9.352979, 'Longitude': 109.302939}",Thường Tín,31,4
+Quảng Ninh,31,Nam,Kỹ sư,14,3,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 18.138213, 'Longitude': 103.05706}",Hai Bà Trưng,37,4
+Vĩnh Phúc,18,Nam,Sinh viên,1,1,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 16.08566, 'Longitude': 103.861409}",Ứng Hòa,19,1
+Hà Giang,33,Nữ,Công nhân,11,3,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 17.651696, 'Longitude': 107.969199}",Phú Xuyên,34,1
+Thái Bình,25,Nam,Công nhân,11,4,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 11.574358, 'Longitude': 107.166997}",Ba Đình,25,3
+Thái Bình,26,Nữ,Phục vụ,6,1,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 22.105851, 'Longitude': 103.155701}",Ba Đình,13,4
+Hà Giang,27,Nam,Nhân viên văn phòng,10,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 13.432597, 'Longitude': 108.931159}",Phú Xuyên,27,4
+Lạng Sơn,28,Nam,Kỹ sư,9,3,Không quan trọng,"['Bếp', 'Nội thất sẵn']","{'Latitude': 23.246516, 'Longitude': 103.057842}",Hoàn Kiếm,36,2
+Phú Thọ,25,Nữ,Freelancer,8,5,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 21.978232, 'Longitude': 107.917056}",Hoàng Mai,16,1
+Yên Bái,23,Nữ,Kỹ sư,20,2,Không quan trọng,['Máy lạnh'],"{'Latitude': 19.734354, 'Longitude': 109.312505}",Ba Vì,41,4
+Hưng Yên,20,Nam,Sinh viên,1,1,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 11.310201, 'Longitude': 106.191168}",Tây Hồ,23,1
+Hải Dương,18,Nam,Sinh viên,2,5,Không quan trọng,['Bếp'],"{'Latitude': 11.904526, 'Longitude': 103.827774}",Nam Từ Liêm,11,4
+Ninh Bình,21,Nam,Sinh viên,5,3,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 9.789355, 'Longitude': 105.825514}",Thường Tín,12,1
+Hải Phòng,26,Nam,Công nhân,18,4,Không quan trọng,"['Bếp', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 23.23461, 'Longitude': 103.253799}",Cầu Giấy,16,1
+Thái Bình,22,Nam,Sinh viên,6,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 16.091748, 'Longitude': 107.215082}",Bắc Từ Liêm,28,1
+Hải Phòng,27,Nam,Công nhân,9,4,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 17.489295, 'Longitude': 104.368983}",Thạch Thất,24,4
+Yên Bái,24,Nam,Freelancer,5,3,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'Bếp', 'An ninh tốt']","{'Latitude': 9.615626, 'Longitude': 107.184821}",Bắc Từ Liêm,11,1
+Ninh Bình,32,Nữ,Kỹ sư,7,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 9.455905, 'Longitude': 104.917473}",Nam Từ Liêm,37,4
+Bắc Giang,31,Nam,Công nhân,11,1,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 8.438283, 'Longitude': 105.822597}",Quốc Oai,33,2
+Cao Bằng,35,Nam,Freelancer,15,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt', 'Bếp']","{'Latitude': 15.21853, 'Longitude': 103.308656}",Mỹ Đức,18,4
+Lạng Sơn,33,Nam,Phục vụ,5,1,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 23.257644, 'Longitude': 106.207414}",Quốc Oai,15,1
+Điện Biên,22,Nam,Sinh viên,0,5,Không quan trọng,['Máy lạnh'],"{'Latitude': 17.822865, 'Longitude': 103.939997}",Hoài Đức,34,3
+Điện Biên,26,Nam,Phục vụ,7,4,Nuôi thú cưng,"['Bếp', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 15.667906, 'Longitude': 107.183867}",Đống Đa,23,3
+Nam Định,27,Nam,Nhân viên văn phòng,5,5,Thích yên tĩnh,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 14.426967, 'Longitude': 106.125522}",Nam Từ Liêm,38,2
+Phú Thọ,32,Nam,Freelancer,12,2,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 21.314263, 'Longitude': 104.348748}",Thanh Trì,36,4
+Yên Bái,31,Nữ,Freelancer,18,3,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 11.455179, 'Longitude': 103.267743}",Đan Phượng,33,1
+Bắc Ninh,34,Nam,Kỹ sư,20,5,Không quan trọng,"['Bếp', 'Máy lạnh']","{'Latitude': 11.757752, 'Longitude': 106.476568}",Đan Phượng,49,4
+Hà Nam,21,Nam,Sinh viên,1,4,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 12.252969, 'Longitude': 108.211956}",Hai Bà Trưng,35,2
+Yên Bái,34,Nam,Kỹ sư,8,2,Không quan trọng,['Máy lạnh'],"{'Latitude': 22.797591, 'Longitude': 104.001167}",Gia Lâm,31,3
+Hà Nam,35,Nam,Kỹ sư,5,1,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 20.847541, 'Longitude': 103.779813}",Quốc Oai,50,3
+Ninh Bình,33,Nữ,Nhân viên văn phòng,9,5,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 20.6506, 'Longitude': 108.749123}",Thường Tín,43,4
+Vĩnh Phúc,27,Nữ,Kỹ sư,13,3,Không quan trọng,"['Bếp', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 17.985033, 'Longitude': 106.021615}",Thanh Oai,50,2
+Bắc Giang,29,Nam,Công nhân,20,2,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 18.567, 'Longitude': 105.162917}",Thường Tín,50,2
+Thái Nguyên,27,Nam,Công nhân,20,1,Không quan trọng,['An ninh tốt'],"{'Latitude': 19.756664, 'Longitude': 105.038085}",Nam Từ Liêm,13,2
+Hải Phòng,32,Nam,Freelancer,8,2,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 13.726372, 'Longitude': 102.507074}",Phúc Thọ,24,3
+Thái Bình,26,Nam,Nhân viên văn phòng,5,5,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp']","{'Latitude': 11.130716, 'Longitude': 106.036829}",Hoàng Mai,11,1
+Cao Bằng,35,Nữ,Kỹ sư,18,3,Không quan trọng,['Bếp'],"{'Latitude': 17.454924, 'Longitude': 102.304656}",Hai Bà Trưng,41,4
+Bắc Ninh,24,Nữ,Phục vụ,20,5,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 19.13105, 'Longitude': 107.563823}",Sóc Sơn,48,4
+Điện Biên,19,Nữ,Sinh viên,0,5,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 9.432506, 'Longitude': 107.382424}",Thanh Oai,20,2
+Bắc Kạn,32,Nữ,Công nhân,6,4,Không quan trọng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 18.211067, 'Longitude': 107.96421}",Tây Hồ,33,2
+Ninh Bình,30,Nam,Công nhân,19,1,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 10.955012, 'Longitude': 103.070261}",Phú Xuyên,24,1
+Hưng Yên,24,Nữ,Phục vụ,16,1,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 8.680821, 'Longitude': 102.808103}",Hoàng Mai,38,2
+Quảng Ninh,25,Nữ,Kỹ sư,12,1,Nuôi thú cưng,['Chỗ để xe'],"{'Latitude': 11.890766, 'Longitude': 109.28039}",Thạch Thất,25,4
+Ninh Bình,23,Nữ,Freelancer,10,1,Nuôi thú cưng,"['Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 15.071592, 'Longitude': 103.804269}",Quốc Oai,39,1
+Tuyên Quang,34,Nam,Công nhân,7,4,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp', 'An ninh tốt']","{'Latitude': 23.149992, 'Longitude': 108.262362}",Hoài Đức,19,1
+Hải Phòng,28,Nữ,Công nhân,12,2,Không quan trọng,"['An ninh tốt', 'Bếp', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 17.030351, 'Longitude': 105.466382}",Hai Bà Trưng,22,1
+Hà Giang,31,Nam,Phục vụ,18,5,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.698334, 'Longitude': 105.379071}",Mỹ Đức,34,4
+Điện Biên,27,Nam,Nhân viên văn phòng,5,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 9.164376, 'Longitude': 109.193772}",Hoài Đức,17,4
+Hưng Yên,34,Nam,Phục vụ,5,2,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 23.189467, 'Longitude': 103.821799}",Phúc Thọ,13,4
+Hà Giang,35,Nam,Freelancer,14,3,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 16.162132, 'Longitude': 106.122312}",Hoàng Mai,30,2
+Phú Thọ,30,Nữ,Nhân viên văn phòng,18,4,Thích yên tĩnh,"['Bếp', 'Nội thất sẵn', 'Máy lạnh', 'Chỗ để xe']","{'Latitude': 14.792878, 'Longitude': 106.77379}",Chương Mỹ,37,4
+Tuyên Quang,34,Nam,Nhân viên văn phòng,17,2,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn', 'Bếp']","{'Latitude': 14.188317, 'Longitude': 105.736071}",Thanh Oai,18,4
+Nam Định,20,Nam,Sinh viên,10,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 14.968824, 'Longitude': 107.717165}",Hoàn Kiếm,27,2
+Tuyên Quang,31,Nữ,Nhân viên văn phòng,14,2,Không quan trọng,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 8.551, 'Longitude': 103.118793}",Phúc Thọ,45,4
+Cao Bằng,23,Nữ,Kỹ sư,8,5,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 18.561843, 'Longitude': 107.133202}",Sóc Sơn,33,3
+Yên Bái,21,Nữ,Sinh viên,10,5,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt', 'Bếp']","{'Latitude': 19.701592, 'Longitude': 105.976005}",Thường Tín,39,2
+Hải Phòng,35,Nam,Kỹ sư,10,3,Không quan trọng,"['Máy lạnh', 'Chỗ để xe']","{'Latitude': 16.06053, 'Longitude': 102.524689}",Quốc Oai,39,1
+Yên Bái,34,Nam,Công nhân,14,5,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 18.300796, 'Longitude': 104.534167}",Hai Bà Trưng,32,3
+Hải Dương,22,Nữ,Sinh viên,7,3,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 19.122221, 'Longitude': 103.78384}",Hà Đông,13,3
+Điện Biên,35,Nữ,Phục vụ,15,1,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt']","{'Latitude': 13.700919, 'Longitude': 103.37565}",Đông Anh,13,3
+Lai Châu,24,Nam,Freelancer,9,2,Thích yên tĩnh,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 8.868978, 'Longitude': 105.874363}",Đan Phượng,23,2
+Hòa Bình,35,Nam,Phục vụ,11,4,Không quan trọng,"['Bếp', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 16.16826, 'Longitude': 105.919804}",Hoàng Mai,10,2
+Phú Thọ,35,Nam,Freelancer,9,5,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 11.617255, 'Longitude': 106.488904}",Phú Xuyên,13,2
+Hưng Yên,19,Nữ,Sinh viên,8,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 22.750118, 'Longitude': 103.446772}",Nam Từ Liêm,31,1
+Bắc Kạn,28,Nữ,Freelancer,15,1,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 12.463012, 'Longitude': 107.986678}",Phúc Thọ,20,3
+Vĩnh Phúc,22,Nữ,Sinh viên,1,3,Không quan trọng,"['Máy lạnh', 'Bếp', 'Chỗ để xe']","{'Latitude': 13.010077, 'Longitude': 107.050745}",Thanh Trì,43,1
+Bắc Kạn,29,Nữ,Nhân viên văn phòng,8,4,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 14.150088, 'Longitude': 102.333069}",Sóc Sơn,33,3
+Điện Biên,23,Nam,Nhân viên văn phòng,6,5,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 15.72141, 'Longitude': 106.434905}",Ứng Hòa,42,2
+Lai Châu,35,Nam,Phục vụ,20,4,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 19.033307, 'Longitude': 104.375954}",Hai Bà Trưng,47,3
+Sơn La,29,Nam,Freelancer,11,5,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.508684, 'Longitude': 106.569903}",Sơn Tây,47,4
+Hải Phòng,23,Nữ,Công nhân,13,3,Không quan trọng,"['Chỗ để xe', 'Bếp', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 17.798275, 'Longitude': 106.296839}",Thạch Thất,19,2
+Lào Cai,34,Nữ,Nhân viên văn phòng,15,1,Không quan trọng,['An ninh tốt'],"{'Latitude': 8.416838, 'Longitude': 108.322796}",Ba Đình,31,4
+Bắc Giang,24,Nam,Freelancer,19,5,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 17.917172, 'Longitude': 108.146798}",Hà Đông,12,4
+Lai Châu,32,Nữ,Phục vụ,18,5,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 10.533812, 'Longitude': 104.757729}",Đông Anh,17,4
+Quảng Ninh,18,Nữ,Sinh viên,4,2,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 19.549567, 'Longitude': 102.363418}",Hoàn Kiếm,38,1
+Tuyên Quang,20,Nam,Sinh viên,0,4,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 16.090083, 'Longitude': 104.219707}",Ba Đình,29,4
+Thái Nguyên,28,Nữ,Phục vụ,12,2,Không quan trọng,['Chỗ để xe'],"{'Latitude': 23.274667, 'Longitude': 109.045158}",Hoàng Mai,13,2
+Lạng Sơn,27,Nam,Nhân viên văn phòng,20,1,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 19.454083, 'Longitude': 103.712618}",Hà Đông,44,1
+Thái Nguyên,19,Nữ,Sinh viên,4,5,Nuôi thú cưng,['Bếp'],"{'Latitude': 14.065373, 'Longitude': 105.191873}",Chương Mỹ,18,1
+Hải Dương,33,Nữ,Kỹ sư,16,2,Thích yên tĩnh,"['Bếp', 'An ninh tốt']","{'Latitude': 9.591203, 'Longitude': 108.995889}",Quốc Oai,47,4
+Hòa Bình,35,Nam,Nhân viên văn phòng,8,1,Không quan trọng,['An ninh tốt'],"{'Latitude': 12.730135, 'Longitude': 103.52669}",Chương Mỹ,24,1
+Phú Thọ,20,Nam,Sinh viên,7,2,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 14.654157, 'Longitude': 109.159526}",Hoàng Mai,37,2
+Hải Dương,32,Nữ,Phục vụ,19,1,Không quan trọng,['Máy lạnh'],"{'Latitude': 13.760389, 'Longitude': 109.094861}",Thanh Xuân,40,3
+Quảng Ninh,21,Nam,Sinh viên,1,2,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe']","{'Latitude': 8.844746, 'Longitude': 108.875615}",Long Biên,50,3
+Phú Thọ,35,Nam,Công nhân,19,1,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 20.871287, 'Longitude': 106.442476}",Đông Anh,15,4
+Lào Cai,30,Nữ,Freelancer,8,1,Thích yên tĩnh,"['Máy lạnh', 'An ninh tốt', 'Bếp']","{'Latitude': 14.783679, 'Longitude': 107.014092}",Đan Phượng,21,3
+Phú Thọ,24,Nam,Phục vụ,7,2,Không quan trọng,['Máy lạnh'],"{'Latitude': 12.70417, 'Longitude': 108.47195}",Hà Đông,12,4
+Bắc Giang,26,Nữ,Phục vụ,15,3,Không quan trọng,['An ninh tốt'],"{'Latitude': 12.404815, 'Longitude': 108.210844}",Phúc Thọ,27,1
+Bắc Kạn,23,Nam,Phục vụ,10,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 18.704192, 'Longitude': 106.075116}",Hoàn Kiếm,29,2
+Hải Phòng,19,Nữ,Sinh viên,6,2,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 23.204362, 'Longitude': 102.991051}",Phúc Thọ,33,3
+Yên Bái,32,Nam,Nhân viên văn phòng,17,4,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp']","{'Latitude': 10.695369, 'Longitude': 105.157715}",Thanh Trì,46,3
+Bắc Giang,31,Nam,Công nhân,19,5,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 18.700826, 'Longitude': 107.802017}",Tây Hồ,11,4
+Điện Biên,32,Nam,Nhân viên văn phòng,20,4,Nuôi thú cưng,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 22.796129, 'Longitude': 108.754633}",Tây Hồ,44,2
+Lai Châu,18,Nam,Sinh viên,10,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 15.607624, 'Longitude': 104.674969}",Phú Xuyên,20,2
+Hà Nam,23,Nữ,Kỹ sư,16,3,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 11.555139, 'Longitude': 107.381813}",Đan Phượng,14,3
+Thái Nguyên,33,Nam,Kỹ sư,15,2,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 9.464255, 'Longitude': 105.439431}",Đông Anh,35,3
+Quảng Ninh,22,Nữ,Sinh viên,8,4,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp']","{'Latitude': 20.975805, 'Longitude': 103.197869}",Tây Hồ,32,3
+Hà Nội,26,Nam,Freelancer,5,5,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Bếp', 'Chỗ để xe']","{'Latitude': 17.031853, 'Longitude': 105.709625}",Hoài Đức,47,2
+Thái Nguyên,23,Nam,Phục vụ,11,5,Thích yên tĩnh,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 9.843691, 'Longitude': 106.679718}",Long Biên,24,4
+Hà Nội,27,Nữ,Phục vụ,9,3,Thích yên tĩnh,"['Chỗ để xe', 'Bếp']","{'Latitude': 10.866482, 'Longitude': 109.369262}",Bắc Từ Liêm,10,2
+Sơn La,34,Nam,Nhân viên văn phòng,19,1,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 10.72619, 'Longitude': 103.855558}",Ứng Hòa,28,2
+Hưng Yên,19,Nữ,Sinh viên,9,3,Thích yên tĩnh,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 21.150146, 'Longitude': 104.167474}",Phú Xuyên,37,4
+Hải Dương,29,Nam,Phục vụ,7,2,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 13.711509, 'Longitude': 106.721839}",Đông Anh,43,3
+Hà Giang,29,Nam,Công nhân,19,4,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 10.975994, 'Longitude': 106.014683}",Hai Bà Trưng,46,4
+Nam Định,28,Nữ,Phục vụ,10,2,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 22.794895, 'Longitude': 107.934321}",Sóc Sơn,22,2
+Hà Giang,28,Nữ,Phục vụ,8,3,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 11.275786, 'Longitude': 107.787029}",Chương Mỹ,43,1
+Sơn La,18,Nữ,Sinh viên,4,5,Không quan trọng,"['Nhà vệ sinh riêng', 'Bếp', 'An ninh tốt']","{'Latitude': 9.567034, 'Longitude': 103.71194}",Mỹ Đức,30,2
+Hà Nội,35,Nam,Freelancer,6,3,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 16.81021, 'Longitude': 108.244299}",Đông Anh,39,4
+Yên Bái,33,Nữ,Freelancer,19,3,Thích yên tĩnh,"['Bếp', 'Máy lạnh', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 14.506718, 'Longitude': 104.382147}",Hoài Đức,11,4
+Hà Nội,28,Nam,Freelancer,5,3,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 22.05995, 'Longitude': 108.481775}",Hoàn Kiếm,32,2
+Lào Cai,30,Nam,Công nhân,8,1,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 10.364945, 'Longitude': 103.862062}",Cầu Giấy,48,4
+Lai Châu,25,Nữ,Freelancer,17,5,Không quan trọng,"['Bếp', 'Nội thất sẵn']","{'Latitude': 14.906157, 'Longitude': 102.532844}",Thanh Trì,21,2
+Hà Nam,30,Nữ,Nhân viên văn phòng,6,3,Thích yên tĩnh,"['Máy lạnh', 'Bếp', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 21.073235, 'Longitude': 103.968397}",Cầu Giấy,17,4
+Phú Thọ,29,Nữ,Kỹ sư,15,3,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 11.065609, 'Longitude': 106.62952}",Đông Anh,21,3
+Hưng Yên,24,Nữ,Công nhân,7,3,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 11.70843, 'Longitude': 109.433399}",Đống Đa,41,1
+Tuyên Quang,27,Nam,Kỹ sư,8,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Bếp', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 22.424369, 'Longitude': 102.833896}",Hoài Đức,11,1
+Ninh Bình,35,Nữ,Công nhân,8,1,Thích yên tĩnh,"['Nội thất sẵn', 'Máy lạnh']","{'Latitude': 10.023921, 'Longitude': 102.306515}",Hà Đông,29,1
+Bắc Ninh,28,Nữ,Công nhân,20,4,Nuôi thú cưng,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 9.172547, 'Longitude': 103.677453}",Chương Mỹ,34,4
+Lạng Sơn,33,Nam,Phục vụ,13,5,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 23.073659, 'Longitude': 107.530653}",Hoàng Mai,44,3
+Bắc Ninh,31,Nam,Kỹ sư,6,5,Không quan trọng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 8.790859, 'Longitude': 109.350731}",Hoài Đức,42,4
+Sơn La,18,Nữ,Sinh viên,3,3,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 21.130248, 'Longitude': 103.987359}",Hoàng Mai,44,4
+Bắc Giang,31,Nữ,Freelancer,14,2,Không quan trọng,['An ninh tốt'],"{'Latitude': 19.007916, 'Longitude': 106.923143}",Thanh Oai,48,3
+Thái Nguyên,35,Nam,Kỹ sư,8,3,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 13.836142, 'Longitude': 108.02538}",Ứng Hòa,13,4
+Nam Định,20,Nữ,Sinh viên,4,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 13.157056, 'Longitude': 107.40513}",Chương Mỹ,17,4
+Lào Cai,35,Nam,Công nhân,12,5,Không quan trọng,"['Bếp', 'An ninh tốt', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 18.887912, 'Longitude': 103.739021}",Long Biên,33,3
+Hà Nam,23,Nam,Nhân viên văn phòng,15,2,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 21.532091, 'Longitude': 102.402196}",Tây Hồ,47,4
+Sơn La,31,Nam,Phục vụ,20,5,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 16.793375, 'Longitude': 104.902006}",Phúc Thọ,20,1
+Bắc Kạn,21,Nam,Sinh viên,10,3,Không quan trọng,['Bếp'],"{'Latitude': 11.252929, 'Longitude': 107.686475}",Thạch Thất,45,4
+Hải Phòng,26,Nữ,Phục vụ,20,2,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp']","{'Latitude': 14.949935, 'Longitude': 103.198245}",Sóc Sơn,22,2
+Nam Định,26,Nữ,Kỹ sư,12,3,Không quan trọng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Máy lạnh', 'Bếp']","{'Latitude': 16.199183, 'Longitude': 103.822892}",Mỹ Đức,24,4
+Lai Châu,25,Nam,Phục vụ,18,3,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'An ninh tốt']","{'Latitude': 8.525312, 'Longitude': 107.037492}",Hoài Đức,36,4
+Thái Nguyên,27,Nữ,Kỹ sư,13,3,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 18.857297, 'Longitude': 103.713271}",Thanh Oai,14,4
+Bắc Ninh,27,Nam,Kỹ sư,8,5,Không quan trọng,['Bếp'],"{'Latitude': 9.329346, 'Longitude': 105.673164}",Hoàn Kiếm,23,2
+Hưng Yên,19,Nam,Sinh viên,10,2,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 10.412674, 'Longitude': 105.396297}",Long Biên,43,1
+Cao Bằng,31,Nữ,Nhân viên văn phòng,13,4,Thích yên tĩnh,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 19.378264, 'Longitude': 108.796348}",Thanh Xuân,18,1
+Thái Bình,32,Nữ,Nhân viên văn phòng,11,3,Thích yên tĩnh,"['Bếp', 'An ninh tốt']","{'Latitude': 14.470739, 'Longitude': 106.833935}",Thanh Xuân,26,3
+Hải Dương,34,Nam,Phục vụ,14,5,Nuôi thú cưng,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 8.342224, 'Longitude': 108.107293}",Chương Mỹ,22,1
+Lạng Sơn,23,Nữ,Nhân viên văn phòng,18,1,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 10.892329, 'Longitude': 106.597598}",Mỹ Đức,10,2
+Ninh Bình,27,Nam,Freelancer,19,3,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 9.793782, 'Longitude': 103.466808}",Sóc Sơn,36,1
+Hải Phòng,35,Nam,Kỹ sư,7,5,Không quan trọng,"['Bếp', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 21.642246, 'Longitude': 107.393769}",Long Biên,18,3
+Lai Châu,26,Nữ,Nhân viên văn phòng,14,4,Không quan trọng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 16.982002, 'Longitude': 107.359356}",Long Biên,25,2
+Cao Bằng,34,Nữ,Phục vụ,20,1,Không quan trọng,"['Chỗ để xe', 'An ninh tốt']","{'Latitude': 16.371548, 'Longitude': 107.278699}",Ứng Hòa,33,3
+Yên Bái,23,Nam,Phục vụ,9,1,Không quan trọng,"['Máy lạnh', 'Bếp', 'Nội thất sẵn']","{'Latitude': 18.475377, 'Longitude': 103.008724}",Ứng Hòa,20,4
+Bắc Giang,23,Nữ,Phục vụ,17,1,Không quan trọng,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 9.796168, 'Longitude': 107.980999}",Đống Đa,49,1
+Phú Thọ,20,Nữ,Sinh viên,5,5,Không quan trọng,"['Máy lạnh', 'Bếp', 'Chỗ để xe']","{'Latitude': 9.488143, 'Longitude': 108.885798}",Phú Xuyên,48,3
+Hải Phòng,29,Nữ,Freelancer,14,5,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 12.242821, 'Longitude': 108.861619}",Đông Anh,14,3
+Sơn La,28,Nữ,Công nhân,15,1,Không quan trọng,"['An ninh tốt', 'Nội thất sẵn']","{'Latitude': 12.283233, 'Longitude': 107.207394}",Ba Vì,33,2
+Hải Phòng,22,Nữ,Sinh viên,7,4,Không quan trọng,"['Bếp', 'An ninh tốt']","{'Latitude': 23.083457, 'Longitude': 106.915484}",Hoài Đức,15,3
+Hà Nam,28,Nam,Công nhân,16,1,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 22.417016, 'Longitude': 102.907539}",Ứng Hòa,31,1
+Ninh Bình,27,Nữ,Nhân viên văn phòng,5,5,Không quan trọng,"['Chỗ để xe', 'Máy lạnh', 'Nội thất sẵn', 'Bếp']","{'Latitude': 10.298169, 'Longitude': 106.644662}",Thanh Xuân,19,2
+Quảng Ninh,25,Nam,Kỹ sư,13,3,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 20.786584, 'Longitude': 105.571301}",Bắc Từ Liêm,41,3
+Hà Nội,30,Nữ,Kỹ sư,12,4,Nuôi thú cưng,['Bếp'],"{'Latitude': 16.237291, 'Longitude': 108.229551}",Gia Lâm,42,3
+Hưng Yên,26,Nữ,Nhân viên văn phòng,13,3,Không quan trọng,"['Bếp', 'An ninh tốt']","{'Latitude': 8.466355, 'Longitude': 108.517561}",Ba Vì,31,1
+Ninh Bình,22,Nam,Sinh viên,0,5,Thích yên tĩnh,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 10.403888, 'Longitude': 109.313925}",Tây Hồ,25,1
+Thái Nguyên,27,Nữ,Phục vụ,13,4,Nuôi thú cưng,"['Máy lạnh', 'Nhà vệ sinh riêng', 'Chỗ để xe', 'Bếp']","{'Latitude': 17.805277, 'Longitude': 102.497104}",Thường Tín,42,1
+Hà Nội,32,Nữ,Nhân viên văn phòng,11,5,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 10.425478, 'Longitude': 106.566909}",Thường Tín,28,3
+Nam Định,26,Nam,Freelancer,12,1,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 13.899636, 'Longitude': 109.326389}",Thường Tín,46,4
+Vĩnh Phúc,29,Nam,Công nhân,10,2,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 18.710144, 'Longitude': 102.184436}",Bắc Từ Liêm,44,1
+Hải Dương,34,Nam,Phục vụ,17,2,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 14.692915, 'Longitude': 105.738274}",Ba Đình,41,3
+Quảng Ninh,35,Nam,Kỹ sư,6,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt', 'Bếp']","{'Latitude': 20.636894, 'Longitude': 105.174141}",Hai Bà Trưng,34,4
+Lai Châu,27,Nữ,Nhân viên văn phòng,5,1,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 23.010293, 'Longitude': 104.200221}",Chương Mỹ,23,2
+Hải Dương,32,Nữ,Phục vụ,8,4,Nuôi thú cưng,"['An ninh tốt', 'Bếp', 'Máy lạnh']","{'Latitude': 13.945273, 'Longitude': 108.512715}",Hai Bà Trưng,31,3
+Vĩnh Phúc,23,Nam,Kỹ sư,6,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 16.883307, 'Longitude': 106.468364}",Phú Xuyên,49,3
+Hải Dương,32,Nữ,Kỹ sư,17,1,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 16.353913, 'Longitude': 107.115588}",Đan Phượng,23,3
+Cao Bằng,27,Nam,Kỹ sư,18,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe']","{'Latitude': 19.319548, 'Longitude': 103.613731}",Thanh Trì,32,2
+Hà Nội,22,Nam,Sinh viên,1,2,Thích yên tĩnh,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh', 'Bếp']","{'Latitude': 22.580815, 'Longitude': 104.412458}",Đống Đa,50,3
+Hà Nội,27,Nữ,Kỹ sư,16,5,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 11.605977, 'Longitude': 107.236349}",Cầu Giấy,46,1
+Bắc Giang,34,Nam,Nhân viên văn phòng,16,4,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 17.118346, 'Longitude': 109.396669}",Nam Từ Liêm,18,3
+Điện Biên,24,Nam,Phục vụ,5,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 18.755479, 'Longitude': 105.62213}",Thường Tín,18,3
+Điện Biên,35,Nữ,Nhân viên văn phòng,17,4,Thích yên tĩnh,"['An ninh tốt', 'Bếp']","{'Latitude': 17.915298, 'Longitude': 104.807551}",Cầu Giấy,20,3
+Quảng Ninh,32,Nam,Nhân viên văn phòng,7,1,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 20.856445, 'Longitude': 104.769453}",Bắc Từ Liêm,26,1
+Hưng Yên,32,Nữ,Freelancer,12,1,Không quan trọng,"['Máy lạnh', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 21.608596, 'Longitude': 104.989619}",Đan Phượng,30,2
+Hòa Bình,24,Nam,Phục vụ,8,3,Không quan trọng,"['Máy lạnh', 'Bếp', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 18.560322, 'Longitude': 105.373694}",Phú Xuyên,26,1
+Bắc Kạn,19,Nữ,Sinh viên,3,3,Nuôi thú cưng,"['An ninh tốt', 'Chỗ để xe', 'Máy lạnh']","{'Latitude': 22.971816, 'Longitude': 106.833492}",Chương Mỹ,41,4
+Hà Giang,31,Nữ,Nhân viên văn phòng,9,4,Thích yên tĩnh,"['An ninh tốt', 'Nội thất sẵn', 'Máy lạnh']","{'Latitude': 15.532752, 'Longitude': 106.52505}",Ba Đình,21,4
+Lai Châu,35,Nữ,Công nhân,7,4,Nuôi thú cưng,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 18.617066, 'Longitude': 102.342205}",Thanh Trì,27,4
+Bắc Giang,23,Nam,Công nhân,5,4,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 22.489041, 'Longitude': 107.434555}",Quốc Oai,16,3
+Cao Bằng,26,Nữ,Freelancer,20,2,Thích yên tĩnh,['Chỗ để xe'],"{'Latitude': 14.857205, 'Longitude': 103.414892}",Ba Vì,31,1
+Quảng Ninh,29,Nam,Công nhân,6,5,Không quan trọng,"['Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 17.176733, 'Longitude': 107.472654}",Ứng Hòa,17,1
+Phú Thọ,27,Nam,Công nhân,16,3,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 21.112187, 'Longitude': 106.582202}",Cầu Giấy,12,4
+Cao Bằng,26,Nữ,Kỹ sư,8,5,Không quan trọng,"['Máy lạnh', 'Nội thất sẵn', 'An ninh tốt', 'Chỗ để xe']","{'Latitude': 9.145669, 'Longitude': 103.51344}",Thanh Trì,40,2
+Ninh Bình,33,Nam,Công nhân,10,2,Không quan trọng,"['Nội thất sẵn', 'Bếp']","{'Latitude': 12.602328, 'Longitude': 105.778824}",Hoài Đức,39,2
+Thái Nguyên,29,Nam,Nhân viên văn phòng,7,2,Nuôi thú cưng,"['Máy lạnh', 'Bếp']","{'Latitude': 16.471421, 'Longitude': 106.206056}",Hai Bà Trưng,43,1
+Bắc Ninh,30,Nam,Phục vụ,12,2,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 12.816018, 'Longitude': 105.977184}",Sóc Sơn,32,2
+Hải Phòng,20,Nam,Sinh viên,6,4,Không quan trọng,['An ninh tốt'],"{'Latitude': 18.57016, 'Longitude': 106.972491}",Thanh Trì,40,1
+Yên Bái,20,Nữ,Sinh viên,2,5,Thích yên tĩnh,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 19.158979, 'Longitude': 103.039889}",Nam Từ Liêm,16,3
+Lai Châu,34,Nam,Nhân viên văn phòng,6,4,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 17.845093, 'Longitude': 105.099214}",Nam Từ Liêm,34,3
+Hòa Bình,19,Nam,Sinh viên,2,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 12.351424, 'Longitude': 109.00559}",Thạch Thất,18,4
+Hà Giang,33,Nam,Phục vụ,10,4,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 19.436946, 'Longitude': 106.882646}",Đan Phượng,22,2
+Cao Bằng,34,Nam,Freelancer,5,1,Thích yên tĩnh,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 13.996806, 'Longitude': 109.449476}",Phú Xuyên,24,1
+Bắc Kạn,20,Nữ,Sinh viên,10,3,Thích yên tĩnh,['Máy lạnh'],"{'Latitude': 13.375173, 'Longitude': 108.875759}",Hai Bà Trưng,50,4
+Bắc Giang,25,Nữ,Công nhân,9,3,Thích yên tĩnh,"['Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 12.960616, 'Longitude': 103.24002}",Hoài Đức,50,3
+Ninh Bình,33,Nam,Kỹ sư,19,5,Nuôi thú cưng,"['Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 16.206051, 'Longitude': 105.141376}",Quốc Oai,41,4
+Hà Nội,23,Nữ,Nhân viên văn phòng,5,4,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 9.564476, 'Longitude': 107.08828}",Cầu Giấy,44,2
+Phú Thọ,34,Nữ,Kỹ sư,12,3,Nuôi thú cưng,['Bếp'],"{'Latitude': 12.715604, 'Longitude': 103.015631}",Sóc Sơn,11,1
+Hà Nội,35,Nam,Freelancer,13,1,Không quan trọng,"['Bếp', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 18.565725, 'Longitude': 105.322081}",Sơn Tây,25,2
+Sơn La,28,Nam,Phục vụ,15,3,Thích yên tĩnh,['Nhà vệ sinh riêng'],"{'Latitude': 21.290099, 'Longitude': 108.512333}",Chương Mỹ,30,3
+Ninh Bình,31,Nam,Freelancer,15,4,Thích yên tĩnh,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 10.747912, 'Longitude': 107.10336}",Hà Đông,41,1
+Bắc Giang,25,Nam,Kỹ sư,18,2,Không quan trọng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 16.087273, 'Longitude': 103.81455}",Đan Phượng,24,1
+Điện Biên,31,Nữ,Freelancer,18,4,Thích yên tĩnh,"['Bếp', 'Chỗ để xe', 'Nội thất sẵn']","{'Latitude': 18.027228, 'Longitude': 103.287353}",Thường Tín,46,2
+Quảng Ninh,32,Nữ,Công nhân,12,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 19.592416, 'Longitude': 108.485595}",Bắc Từ Liêm,47,2
+Hà Nội,25,Nữ,Kỹ sư,9,3,Không quan trọng,"['An ninh tốt', 'Máy lạnh']","{'Latitude': 16.953244, 'Longitude': 105.231765}",Cầu Giấy,29,4
+Tuyên Quang,23,Nữ,Kỹ sư,18,1,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'Bếp', 'Chỗ để xe']","{'Latitude': 12.515873, 'Longitude': 104.433012}",Thanh Trì,45,2
+Yên Bái,24,Nam,Phục vụ,9,1,Thích yên tĩnh,['Bếp'],"{'Latitude': 15.600794, 'Longitude': 106.426256}",Sóc Sơn,30,1
+Lào Cai,29,Nữ,Kỹ sư,20,2,Nuôi thú cưng,['Máy lạnh'],"{'Latitude': 16.871882, 'Longitude': 103.748578}",Đan Phượng,33,3
+Phú Thọ,20,Nam,Sinh viên,4,1,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Chỗ để xe', 'An ninh tốt']","{'Latitude': 10.557743, 'Longitude': 107.104044}",Hoài Đức,18,2
+Thái Nguyên,29,Nữ,Phục vụ,5,2,Không quan trọng,['Nội thất sẵn'],"{'Latitude': 20.099962, 'Longitude': 102.205804}",Sóc Sơn,37,3
+Điện Biên,25,Nữ,Công nhân,7,4,Không quan trọng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 12.306579, 'Longitude': 108.635946}",Thanh Xuân,11,4
+Bắc Kạn,34,Nam,Nhân viên văn phòng,17,1,Nuôi thú cưng,['An ninh tốt'],"{'Latitude': 17.021601, 'Longitude': 107.7753}",Đan Phượng,46,3
+Lai Châu,28,Nữ,Công nhân,18,1,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 9.362732, 'Longitude': 102.548382}",Tây Hồ,11,1
+Bắc Ninh,32,Nam,Phục vụ,15,4,Nuôi thú cưng,"['Chỗ để xe', 'Bếp', 'Máy lạnh']","{'Latitude': 12.567109, 'Longitude': 105.965021}",Long Biên,35,1
+Lào Cai,26,Nam,Phục vụ,13,5,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 9.285029, 'Longitude': 105.319374}",Chương Mỹ,20,1
+Thái Nguyên,29,Nam,Phục vụ,9,5,Nuôi thú cưng,"['An ninh tốt', 'Nhà vệ sinh riêng', 'Nội thất sẵn', 'Bếp']","{'Latitude': 23.26157, 'Longitude': 107.500121}",Cầu Giấy,50,2
+Hải Dương,30,Nam,Phục vụ,5,2,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 15.664295, 'Longitude': 104.859224}",Đống Đa,17,3
+Hà Nam,22,Nữ,Sinh viên,4,2,Nuôi thú cưng,"['Chỗ để xe', 'Bếp', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 13.861344, 'Longitude': 104.183675}",Mỹ Đức,25,2
+Lào Cai,29,Nữ,Kỹ sư,14,3,Không quan trọng,"['Bếp', 'Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 21.961767, 'Longitude': 107.95885}",Hà Đông,25,4
+Hà Giang,25,Nữ,Phục vụ,20,3,Nuôi thú cưng,"['Chỗ để xe', 'Bếp']","{'Latitude': 16.384489, 'Longitude': 107.778816}",Hoài Đức,43,1
+Quảng Ninh,32,Nam,Kỹ sư,11,3,Không quan trọng,['Máy lạnh'],"{'Latitude': 12.726719, 'Longitude': 108.805483}",Bắc Từ Liêm,38,2
+Hải Phòng,20,Nữ,Sinh viên,6,5,Nuôi thú cưng,"['An ninh tốt', 'Bếp']","{'Latitude': 9.286386, 'Longitude': 105.340971}",Hoàn Kiếm,23,1
+Vĩnh Phúc,30,Nam,Công nhân,5,2,Thích yên tĩnh,"['An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 11.05882, 'Longitude': 106.034097}",Gia Lâm,26,2
+Lào Cai,20,Nữ,Sinh viên,3,4,Thích yên tĩnh,['An ninh tốt'],"{'Latitude': 13.204075, 'Longitude': 104.70831}",Gia Lâm,31,4
+Hòa Bình,19,Nữ,Sinh viên,10,4,Nuôi thú cưng,['Bếp'],"{'Latitude': 13.358216, 'Longitude': 107.685078}",Mỹ Đức,10,2
+Bắc Ninh,27,Nữ,Freelancer,9,4,Thích yên tĩnh,['Nội thất sẵn'],"{'Latitude': 9.841105, 'Longitude': 107.037984}",Sơn Tây,22,4
+Bắc Ninh,24,Nam,Phục vụ,11,1,Không quan trọng,['An ninh tốt'],"{'Latitude': 19.68487, 'Longitude': 104.944206}",Long Biên,36,2
+Lạng Sơn,33,Nam,Phục vụ,6,4,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh']","{'Latitude': 16.049353, 'Longitude': 105.382186}",Chương Mỹ,49,4
+Bắc Giang,31,Nam,Kỹ sư,5,5,Thích yên tĩnh,"['Bếp', 'Máy lạnh']","{'Latitude': 17.805416, 'Longitude': 106.558778}",Hoàn Kiếm,50,4
+Hải Phòng,28,Nam,Nhân viên văn phòng,10,2,Nuôi thú cưng,['Nội thất sẵn'],"{'Latitude': 8.769815, 'Longitude': 105.826194}",Sơn Tây,18,2
+Bắc Ninh,33,Nữ,Phục vụ,20,1,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'An ninh tốt', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 11.784015, 'Longitude': 106.958995}",Mỹ Đức,40,1
+Nam Định,18,Nam,Sinh viên,10,3,Không quan trọng,['Bếp'],"{'Latitude': 23.296802, 'Longitude': 103.299755}",Đan Phượng,24,3
+Cao Bằng,34,Nữ,Nhân viên văn phòng,18,1,Không quan trọng,['Nhà vệ sinh riêng'],"{'Latitude': 11.302158, 'Longitude': 105.305313}",Đông Anh,15,1
+Sơn La,33,Nữ,Freelancer,10,4,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe']","{'Latitude': 12.269229, 'Longitude': 108.826592}",Thanh Trì,38,1
+Lào Cai,31,Nữ,Công nhân,19,1,Nuôi thú cưng,"['Chỗ để xe', 'Máy lạnh']","{'Latitude': 22.506223, 'Longitude': 109.42992}",Quốc Oai,26,1
+Hải Dương,19,Nam,Sinh viên,10,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Nội thất sẵn', 'An ninh tốt']","{'Latitude': 11.718172, 'Longitude': 108.281683}",Thanh Trì,12,3
+Hà Nội,31,Nam,Kỹ sư,12,3,Không quan trọng,['Chỗ để xe'],"{'Latitude': 8.939161, 'Longitude': 109.02932}",Long Biên,49,2
+Hòa Bình,32,Nam,Kỹ sư,5,4,Không quan trọng,['Chỗ để xe'],"{'Latitude': 21.963122, 'Longitude': 103.697863}",Hoàn Kiếm,43,1
+Hải Phòng,35,Nữ,Freelancer,14,3,Nuôi thú cưng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 21.135033, 'Longitude': 108.785131}",Sơn Tây,11,2
+Hải Phòng,20,Nữ,Sinh viên,6,4,Nuôi thú cưng,"['Máy lạnh', 'Nội thất sẵn']","{'Latitude': 8.36157, 'Longitude': 103.265735}",Tây Hồ,47,3
+Yên Bái,32,Nam,Nhân viên văn phòng,15,1,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 21.823836, 'Longitude': 108.000776}",Gia Lâm,18,4
+Tuyên Quang,20,Nữ,Sinh viên,4,2,Không quan trọng,['Bếp'],"{'Latitude': 8.866923, 'Longitude': 104.841069}",Ba Đình,39,4
+Lai Châu,35,Nam,Phục vụ,9,4,Nuôi thú cưng,"['Bếp', 'Máy lạnh']","{'Latitude': 15.164959, 'Longitude': 107.108731}",Sơn Tây,47,2
+Hà Giang,25,Nữ,Phục vụ,14,2,Nuôi thú cưng,"['Máy lạnh', 'Bếp', 'Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 19.990042, 'Longitude': 106.145465}",Hoài Đức,17,3
+Quảng Ninh,25,Nam,Nhân viên văn phòng,12,2,Nuôi thú cưng,"['Máy lạnh', 'Bếp']","{'Latitude': 20.432194, 'Longitude': 105.077991}",Ba Đình,16,2
+Tuyên Quang,27,Nữ,Nhân viên văn phòng,13,5,Nuôi thú cưng,"['Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 13.39994, 'Longitude': 105.163872}",Nam Từ Liêm,27,1
+Lai Châu,20,Nữ,Sinh viên,3,2,Thích yên tĩnh,"['Nhà vệ sinh riêng', 'Chỗ để xe']","{'Latitude': 12.072306, 'Longitude': 105.924637}",Tây Hồ,10,2
+Lạng Sơn,25,Nữ,Phục vụ,14,3,Không quan trọng,"['Nội thất sẵn', 'Bếp', 'An ninh tốt']","{'Latitude': 15.763875, 'Longitude': 102.519479}",Hoàn Kiếm,13,2
+Thái Bình,29,Nữ,Phục vụ,5,3,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 17.056917, 'Longitude': 108.587721}",Thạch Thất,20,4
+Tuyên Quang,20,Nữ,Sinh viên,6,1,Nuôi thú cưng,"['Nội thất sẵn', 'An ninh tốt']","{'Latitude': 8.454534, 'Longitude': 106.648956}",Hoài Đức,44,1
+Hòa Bình,24,Nam,Kỹ sư,10,1,Không quan trọng,"['Nội thất sẵn', 'Nhà vệ sinh riêng']","{'Latitude': 22.935721, 'Longitude': 107.621031}",Đống Đa,39,2
+Hà Giang,29,Nam,Freelancer,15,2,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 9.785979, 'Longitude': 107.640823}",Thanh Trì,37,1
+Lai Châu,34,Nữ,Nhân viên văn phòng,5,3,Nuôi thú cưng,"['Chỗ để xe', 'Nhà vệ sinh riêng', 'Bếp', 'Nội thất sẵn']","{'Latitude': 13.085869, 'Longitude': 108.957894}",Sóc Sơn,21,2
+Bắc Ninh,35,Nữ,Kỹ sư,11,3,Thích yên tĩnh,"['Nội thất sẵn', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 12.71003, 'Longitude': 108.670534}",Hà Đông,16,2
+Vĩnh Phúc,27,Nam,Phục vụ,6,5,Nuôi thú cưng,"['An ninh tốt', 'Nội thất sẵn', 'Bếp', 'Máy lạnh']","{'Latitude': 18.267996, 'Longitude': 105.513407}",Ba Vì,24,4
+Cao Bằng,21,Nam,Sinh viên,6,3,Thích yên tĩnh,"['Máy lạnh', 'Nội thất sẵn', 'Bếp']","{'Latitude': 11.771857, 'Longitude': 106.169384}",Gia Lâm,49,4
+Hải Phòng,31,Nữ,Nhân viên văn phòng,6,1,Nuôi thú cưng,"['Bếp', 'Máy lạnh', 'Nội thất sẵn']","{'Latitude': 16.261566, 'Longitude': 105.34983}",Gia Lâm,10,1
+Hòa Bình,26,Nam,Freelancer,7,4,Không quan trọng,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 10.160411, 'Longitude': 103.522112}",Đan Phượng,10,2
+Hà Nội,21,Nữ,Sinh viên,5,2,Không quan trọng,"['Nội thất sẵn', 'Chỗ để xe', 'Nhà vệ sinh riêng']","{'Latitude': 20.324749, 'Longitude': 103.372445}",Ba Vì,22,1
+Yên Bái,24,Nam,Công nhân,12,1,Nuôi thú cưng,['Nhà vệ sinh riêng'],"{'Latitude': 12.5393, 'Longitude': 104.080415}",Hoài Đức,40,2
+Hòa Bình,28,Nữ,Nhân viên văn phòng,15,1,Thích yên tĩnh,"['Máy lạnh', 'Nhà vệ sinh riêng']","{'Latitude': 15.334748, 'Longitude': 103.080137}",Sóc Sơn,49,2
+Hưng Yên,32,Nữ,Kỹ sư,16,2,Nuôi thú cưng,"['An ninh tốt', 'Máy lạnh', 'Bếp', 'Chỗ để xe']","{'Latitude': 20.54896, 'Longitude': 109.096925}",Chương Mỹ,29,3
+Lai Châu,25,Nam,Nhân viên văn phòng,19,3,Thích yên tĩnh,['Bếp'],"{'Latitude': 9.228496, 'Longitude': 102.39286}",Sóc Sơn,34,2
+Thái Nguyên,31,Nam,Kỹ sư,14,4,Nuôi thú cưng,"['Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 20.661494, 'Longitude': 107.479209}",Nam Từ Liêm,29,3
+Thái Nguyên,20,Nữ,Sinh viên,10,3,Không quan trọng,"['Nhà vệ sinh riêng', 'Máy lạnh']","{'Latitude': 8.576413, 'Longitude': 106.699285}",Long Biên,25,2
+Quảng Ninh,29,Nam,Phục vụ,10,3,Không quan trọng,['Bếp'],"{'Latitude': 18.397352, 'Longitude': 103.212337}",Chương Mỹ,43,2
+Hải Phòng,30,Nữ,Kỹ sư,17,4,Thích yên tĩnh,"['Máy lạnh', 'Nội thất sẵn', 'Bếp']","{'Latitude': 8.451606, 'Longitude': 106.010737}",Bắc Từ Liêm,25,2
+Nam Định,23,Nam,Kỹ sư,6,5,Không quan trọng,"['Chỗ để xe', 'Máy lạnh', 'An ninh tốt', 'Nhà vệ sinh riêng']","{'Latitude': 13.539876, 'Longitude': 108.41077}",Đông Anh,36,3
+Ninh Bình,30,Nam,Phục vụ,16,1,Thích yên tĩnh,"['Nội thất sẵn', 'Nhà vệ sinh riêng', 'An ninh tốt']","{'Latitude': 17.34491, 'Longitude': 104.457064}",Thanh Trì,38,3
+Bắc Ninh,34,Nữ,Phục vụ,20,2,Không quan trọng,"['Chỗ để xe', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 21.210712, 'Longitude': 103.119791}",Phú Xuyên,35,2
+Quảng Ninh,27,Nam,Kỹ sư,15,4,Thích yên tĩnh,"['Bếp', 'Máy lạnh', 'An ninh tốt', 'Nội thất sẵn']","{'Latitude': 8.784203, 'Longitude': 104.62803}",Chương Mỹ,22,3
+Phú Thọ,30,Nữ,Kỹ sư,19,1,Thích yên tĩnh,"['Nội thất sẵn', 'Chỗ để xe', 'Bếp', 'Nhà vệ sinh riêng']","{'Latitude': 14.146544, 'Longitude': 105.785068}",Ứng Hòa,30,4
+Thái Nguyên,35,Nam,Công nhân,5,3,Nuôi thú cưng,"['Nhà vệ sinh riêng', 'Nội thất sẵn']","{'Latitude': 9.282812, 'Longitude': 108.13165}",Gia Lâm,46,1

@@ -1,0 +1,3 @@
+roommate_matching:
+  data_file: data/fake_user_data.csv
+
